@@ -197,7 +197,7 @@ NPC_BEANIES_BEANIESQUEST_COMPLETE_PERSUASIONDEVICE_3,"Oh also, here's {questrewa
 NPC_BEANIES_BEANIESQUEST_COMPLETE_PERSUASIONDEVICE_4,"[m:happy]There is more where that came from, just keep entertaining my morally grey requests!",,"[m:happy]Que sepas que tengo más igual de brillantes, ¿eh? Tú sigue complaciendo mis peticiones moralmente cuestionables.","[m:happy]Et j'en ai encore. Alors, si t'en veux plus, continue à accepter mes requêtes moralement ambiguës&nbsp;!","[m:happy]Meine Taschen sind noch lange nicht leer, also wäre ich dir dankbar, wenn du meine moralisch zwielichtigen Aufgaben weiterhin erfüllen könntest!","[m:happy]Ce ne saranno molte altre per te, basta che continui ad assecondare le mie richieste moralmente discutibili!",[m:happy]Eu tenho mais dessas. Apenas continue respondendo aos meus pedidos moralmente ambíguos!,[m:happy]还有很多，继续满足我那些灰色道德的请求吧！
 NPC_BEANIES_BEANIESQUEST_COMPLETE_PERSUASIONDEVICE_5,[m:default]Send more cats!,,[m:default]¡Mándame más gatos!,[m:default]Envoie-moi plus de chats&nbsp;!,[m:default]Schick mir mehr Katzen!,[m:default]Mandami altri gatti!,[m:default]Traga mais gatos!,[m:default]再派些猫来！
 NPC_BEANIES_BEANIESQUEST_FAIL_PERSUASIONDEVICE_1,"[m:angry]You lost the
-[b]Persuasion Device?![/b]",,"[m:angry]¡¿Cómo que has perdido el 
+[b]Persuasion Device?![/b]",,"[m:angry]¡¿Cómo que has perdido el
 [b]dispositivo de persuasión?![/b]","[m:angry]Tu as perdu
 l'[b]Engin de persuasion&nbsp;?![/b]",[m:angry]Du hast das [b]Überzeugungsgerät[/b] verloren?!,"[m:angry]Hai perso il
 [b]Dispositivo di Persuasione?![/b]","[m:angry]Você perdeu o
@@ -425,7 +425,7 @@ NPC_BEANIES_BEANIESQUEST_INTRO_PARTYDETONATOR_5,[m:sad]...,,[m:sad]...,[m:sad]..
 NPC_BEANIES_BEANIESQUEST_INTRO_PARTYDETONATOR_6,"[m:confused]No, no...
 That is in the past... [m:happy]Today we celebrate!",,"[m:confused]No, no...
 Eso ya pasó... [m:happy]¡Hoy toca celebrar!","[m:confused]Non, non...
-C'est du passé... [m:happy]Aujourd'hui, on fait la fête&nbsp;!","[m:confused]Ach, egal&nbsp;… 
+C'est du passé... [m:happy]Aujourd'hui, on fait la fête&nbsp;!","[m:confused]Ach, egal&nbsp;…
 Das liegt in der Vergangenheit&nbsp;… [m:happy]Heute feiern wir!","[m:confused]No, no...
 Quello è il passato... [m:happy]Oggi dobbiamo festeggiare!","[m:confused]Não, não...
 Isso faz parte do passado... [m:happy]Hoje nós vamos celebrar!","[m:confused]不，不...
@@ -2341,7 +2341,7 @@ I'm talking cats that have been to the caves or that old cemetery.",,"[m:ponderi
 De los que han estado en las cuevas o en el viejo cementerio.","[m:pondering]Il faut qu'ils aient une expérience solide.
 Je parle de chats qui sont allés dans les grottes ou le vieux cimetière.","[m:pondering]Katzen, die echte Profis sind. Sie müssen in den Höhlen oder auf‘m alten Friedhof gewesen sein.","[m:pondering]Quelli con vera esperienza.
 Parlo di gatti che sono stati nelle caverne o in quel vecchio cimitero.","[m:pondering]Gatos com experiência de verdade.
-Estou falando dos que já estiveram nas Cavernas ou no velho Cemitério.","[m:pondering]拥有丰富经验的家伙。  
+Estou falando dos que já estiveram nas Cavernas ou no velho Cemitério.","[m:pondering]拥有丰富经验的家伙。
 我指的是那些去过洞穴或那个老墓地的猫。"
 NPC_BUTCH_UPGRADE_STORAGE_2_6,"[m:default]Thanks, buddy.",,[m:default]Muchas gracias.,"[m:default]Merci, tu gères.",[m:default]Danke im Voraus.,[m:default]Grazie mille.,"[m:default]Valeu, parça.",[m:default]谢谢，伙计。
 NPC_BUTCH_UPGRADE_STORAGE_3_1,[m:default]My cat army continues to grow!,,[m:default]¡Mi ejército de gatos no para de crecer!,[m:default]Mon armée de chats continue à croître&nbsp;!,[m:default]Meine Katzenarmee wächst weiter!,[m:default]Il mio esercito di gatti continua a crescere!,[m:default]Meu exército de gatos continua a crescer!,[m:default]我的猫军队不断壮大！
@@ -3711,7 +3711,7 @@ but worse, [m:angry]because this is
 pero peor, [m:angry]porque esto es
 [s:1.2]real realísimo.[/s]","[m:default]Moi, je suis comme ça,
 mais en pire. [m:angry]Crois-moi, c'est
-[s:1.2]100&nbsp;% RÉEL&nbsp;![/s]","[m:default]Nur sind meine Flüche schlimmer. [m:angry]Viel, viel 
+[s:1.2]100&nbsp;% RÉEL&nbsp;![/s]","[m:default]Nur sind meine Flüche schlimmer. [m:angry]Viel, viel
 [s:1.2]SCHLIMMER![/s]","[m:default]Tipo così, insomma,
 ma peggio, [m:angry]perché questa è
 [s:1.2]vera REALTÀ![/s]","[m:default]É bem assim,
@@ -3735,7 +3735,7 @@ NPC_POPUP_STEVEN_SAVESCUM_100_3,error,Steven,error,erreur,fehler,errore,um erro,
 NPC_POPUP_STEVEN_SAVESCUM_INTRO_HOUSEBOSS_1,"Well it seems we meet again.  Yep it's me,
 Steven.",Steven,"Vaya, parece que volvemos a vernos. Sí, soy yo,
 Steven.","Comme on se retrouve. Eh oui, c'est moi, Steven.","So sieht man sich wieder. Jup, ich bin‘s,
-Steven.","Beh, a quanto pare ci rivediamo. Sì, sono io. 
+Steven.","Beh, a quanto pare ci rivediamo. Sì, sono io.
 Steven.","Bom, parece que nos encontramos de novo. Sim, sou eu,
 Steven.","看起来我们又见面了。是的，是我，
 Steven。"
@@ -3781,7 +3781,7 @@ but worse, [m:angry]because this is
 pero peor, [m:angry]porque esto es
 [s:1.2]real realísimo.[/s]","[m:default]Moi, je suis comme ça,
 mais en pire. [m:angry]Crois-moi, c'est
-[s:1.2]100&nbsp;% RÉEL&nbsp;![/s]","[m:default]Nur sind meine Flüche schlimmer. [m:angry]Viel, viel 
+[s:1.2]100&nbsp;% RÉEL&nbsp;![/s]","[m:default]Nur sind meine Flüche schlimmer. [m:angry]Viel, viel
 [s:1.2]SCHLIMMER![/s]","[m:default]Tipo così, insomma,
 ma peggio, [m:angry]perché questa è
 [s:1.2]vera REALTÀ![/s]","[m:default]É bem assim,
@@ -5199,7 +5199,7 @@ NPC_ORGANGRINDER_ORGAN_TINA3_15,"[m:happy]Oh yeah, Tina's rotting corpse!",,"[m:
 NPC_ORGANGRINDER_ORGAN_TINA3_16,"[m:veryhappy]I USED TO LIVE THERE!
 Small world...",,"[m:veryhappy]¡Yo vivía ahí!
 El mundo es un pañuelo.","[m:veryhappy]DIS-TOI QUE J'Y AI HABITÉ&nbsp;!
-Le monde est petit...",[m:veryhappy]DA HAB ICH MAL GEWOHNT! Wie klein die Welt doch ist&nbsp;…,"[m:happy]IO CI VIVEVO! 
+Le monde est petit...",[m:veryhappy]DA HAB ICH MAL GEWOHNT! Wie klein die Welt doch ist&nbsp;…,"[m:happy]IO CI VIVEVO!
 Il mondo è piccolo...","[m:veryhappy]EU COSTUMAVA MORAR LÁ!
 Que mundo pequeno...","[m:veryhappy]我以前住在那里！
 真是个小世界……"
@@ -5940,9 +5940,9 @@ NPC_TRACY_SHOP_WELCOME_CRATER_2,THANKS CAPITALISM!,,"¡GRACIAS, CAPITALISMO!",ME
 NPC_TRACY_SHOP_WELCOME_BUNKER_1,Wow there sure are a lot of neurodivergent individuals down here...,,Sí que hay individuos neurodivergentes aquí abajo...,"Waouh, c'est fou le nombre de neurodivergents dans le coin...","Wow, ganz schön viele neurodivergente Leute hier unten&nbsp;…","Wow, ci sono davvero un sacco di individui neurodivergenti quaggiù...","Nossa, quanta gente neurodivergente por aqui...",哇，这里真有很多神经多样性的人...
 NPC_TRACY_SHOP_WELCOME_BUNKER_2,"Not like thats a bad thing, just making an observation! Don't get me wrong...",,"No es nada malo, es una observación, sin más. No me entiendas mal...","Je critique pas, hein, c'est une simple observation&nbsp;! Ne me fais pas dire ce que j'ai pas dit...","Nicht, dass das schlecht wäre. Ist mir nur aufgefallen! Versteh mich nicht falsch&nbsp;…","Non che sia una cosa negativa, era solo un'osservazione! Non fraintendermi...","Não que isso seja algo ruim, só estou fazendo uma observação! Não me leve a mal...",不是说这有什么不好，只是观察一下！别误会...
 NPC_TRACY_SHOP_WELCOME_BUNKER_3,"In fact, I offer them all discounts! Anyway, you wanna buy something?",,"De hecho, les ofrezco descuentos. En fin..., ¿quieres comprar algo o no?","D'ailleurs, je leur propose tous des réductions&nbsp;! Bref, il te faut un truc&nbsp;?","Sie bekommen sogar alle Rabatt bei mir! Na ja, willst was kaufen?","In effetti, per loro ci sono degli sconti! Comunque, vuoi comprare qualcosa?","Na verdade, ofereço descontos para todos eles! Enfim, você quer comprar alguma coisa?",事实上，我给他们全部折扣！反正，你想买点什么吗？
-NPC_TRACY_SHOP_WELCOME_MOON_1,...,,...,...,…,...,...,"欢迎来到我的商店，{var}！  
-在这里，你可以找到各种各样的物品，  
-无论是冒险所需的装备，还是日常生活的小玩意儿。  
+NPC_TRACY_SHOP_WELCOME_MOON_1,...,,...,...,…,...,...,"欢迎来到我的商店，{var}！
+在这里，你可以找到各种各样的物品，
+无论是冒险所需的装备，还是日常生活的小玩意儿。
 请随意浏览，有什么需要帮助的尽管告诉我！"
 NPC_TRACY_SHOP_WELCOME_CORE_1,I had a feeling I'd catch you down here...,,Tenía el presentimiento de que estarías aquí.,Je me disais bien que je tomberais sur toi ici...,"Irgendwie wusste ich, dass du hier auftauchen würdest&nbsp;…",Avevo la sensazione che ti avrei beccato quaggiù...,Eu tinha a sensação de que te encontraria por aqui...,我早就感觉会在这里抓到你...
 NPC_TRACY_SHOP_WELCOME_LAB_1,[m:angry]Are you seeing all this!? HORRIFIC!,,[m:angry]¡¿Ves todo esto?! ¡El horror!,[m:angry]Tu vois comme moi&nbsp;?! QUELLE HORREUR&nbsp;!,"[m:angry]Siehst du, was hier vor sich geht?! WIE SCHRECKLICH!",[m:angry]Stai vedendo che sta succedendo?! È ORRIBILE!,[m:angry]Você está vendo tudo isso!? HORRÍVEL!,[m:angry]你看到这一切了吗！？太恐怖了！
@@ -6076,7 +6076,7 @@ Patoune Market. Nous vous souhaitons une excellente journée&nbsp;![/b]",[m:happ
 P Mart e buona giornata![/b]","[m:happy][b]Agradecemos por comprar na
 P Mart e tenha um dia abençoado![/b]","[m:happy][b]感谢您在
 P Mart购物，祝您有美好的一天！[/b]"
-NPC_TRACY_TRACY_BLANKCOLLAR1_9,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... argh ...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...Ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ... 
+NPC_TRACY_TRACY_BLANKCOLLAR1_9,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... argh ...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...Ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ...
 NPC_TRACY_TRACY_BLANKCOLLAR2_1,"[b][m:happy]Once again, P Mart wants to acknowledge its rewards members and their hard work!",,[b][m:happy]MercaMascota quiere agradecerles el trabajo duro a sus miembros asociados.,"[b][m:happy]Une fois encore, Patoune Market souhaite reconnaître ses membres et les récompenser pour leur contribution acharnée&nbsp;!",[b][m:happy]P-Markt dankt dir erneut für deine harte Arbeit und möchte dich dafür entlohnen![/b],"[b][m:happy]Ancora una volta, P Mart desidera ringraziare i membri del programma fedeltà pre il loro sostegno!","[b][m:happy]Mais uma vez, a P Mart quer reconhecer seus membros do programa de recompensas e seu trabalho árduo!",[b][m:happy]P Mart再次感谢其奖励会员及其辛勤付出！
 NPC_TRACY_TRACY_BLANKCOLLAR2_2,"[b]With your help, families around the world can fall asleep comfortably knowing P Mart is there for them!",,"[b]Con tu ayuda, muchas familias de todo el mundo pueden dormir tranquilas sabiendo que MercaMascota está ahí para ellas.","[b]Grâce à votre aide, des familles dans le monde entier dorment sur leurs deux oreilles en sachant que Patoune Market veille sur elles&nbsp;!","[b]Dank deiner Hilfe können Familien in aller Welt in Ruhe schlafen und sich sicher sein, dass P-Markt für sie da ist![/b]","[b]Grazie al vostro aiuto, le famiglie di tutto il mondo possono andare serenamente a dormire sapendo che P Mart è a loro disposizione!","[b]Com a sua ajuda, famílias em todo o mundo podem dormir tranquilas sabendo que a P Mart está lá para elas!",[b]有了您的帮助，世界各地的家庭可以安心入睡，因为P Mart一直在他们身边！
 NPC_TRACY_TRACY_BLANKCOLLAR2_3,"[b]And yes, our blank cat collars are once again back in stock tomorrow! Mark your calendars![/b]",,"[b]Y sí, mañana volveremos a tener existencias de nuestros collares en blanco. ¡Márcalo en el calendario![/b]","[b]Et oui, nos colliers de chat vierges sont de retour en magasin demain&nbsp;! Faites une croix sur votre calendrier&nbsp;![/b]","[b]Und ja, unsere leeren Halsbänder sind ab morgen wieder im Angebot! Mach dir ein Kreuzchen im Kalender![/b]","[b]E sì, i nostri collari in bianco per gatti saranno di nuovo disponibili da domani! Segnatevi la data sul calendario![/b]","[b]E sim, nossas coleiras vazias de gatos estarão de volta ao estoque amanhã! Anote na sua agenda![/b]",[b]是的，我们的空白猫项圈将于明天再次上架！记下日期！[/b]
@@ -6226,7 +6226,7 @@ NPC_TRACY_TRACY_FOODSTORAGE1_4,"[b]As you may have heard, all rewards members ga
 NPC_TRACY_TRACY_FOODSTORAGE1_5,[m:default]...,,[m:default]...,[m:default]...,[m:default]…,[m:default]...,[m:default]...,[m:default]…
 NPC_TRACY_TRACY_FOODSTORAGE1_6,Come back tomorrow. I haven't restocked any new imports yet...,,Vuelve mañana. Todavía no tenemos los nuevos productos.,Reviens demain. J'ai pas encore pu remettre des importations en rayon...,Komm morgen wieder. Heute haben wir noch keine neuen Importwaren&nbsp;…,Torna domani. Non ho ancora messo sugli scaffali i nuovi prodotti d'importazione...,Volte amanhã. Ainda não repus nenhum produto importado...,明天再来。我还没补充新的进口货……
 NPC_TRACY_TRACY_FOODSTORAGE1_7,[m:questioning]Pretty sure it's some kind of frozen food locker or something.,,[m:questioning]Seguro que es algún tipo de nevera para comida congelada o algo así.,[m:questioning]Je crois bien que c'est un genre de garde-manger surgelé.,"[m:questioning]Ich glaube, wir bekommen eine Box für Futter oder so.","[m:questioning]Se non mi sbaglio, è una specie di contenitore refrigerato o qualcosa del genere.",[m:questioning]Tenho quase certeza de que é algum tipo de câmara frigorífica para alimentos congelados ou algo parecido.,[m:questioning]我很确定那是某种冷冻食品储藏柜之类的东西。
-NPC_TRACY_TRACY_FOODSTORAGE1_8,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... Euh...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ... 
+NPC_TRACY_TRACY_FOODSTORAGE1_8,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... Euh...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ...
 NPC_TRACY_TRACY_FOODSTORAGE2_1,[m:happy][b]P Mart wants to thank you personally for all of your hard work!,,[m:happy][b]MercaMascota quiere darte las gracias personalmente por todo tu esfuerzo.,[m:happy][b]Patoune Market aimerait vous remercier vous spécifiquement pour tout votre dur labeur&nbsp;!,[m:happy][b]P-Markt dankt dir für deine harte Arbeit![/b],[m:happy][b]P Mart vuole ringraziarti personalmente per tutto il tuo duro lavoro!,[m:happy][b]A P Mart quer agradecer pessoalmente por todo o seu trabalho árduo!,[m:happy][b]P Mart想亲自感谢你所有的辛勤付出！
 NPC_TRACY_TRACY_FOODSTORAGE2_2,"[b]We have recently expanded into rural parts of China and Africa, Spreading kittens across the globe![/b]",,[b]Hace poco nos hemos expandido a zonas rurales de China y África para que los gatitos lleguen a más partes del mundo.,"[b]Nous nous sommes étendus jusque dans les régions rurales de la Chine et l'Afrique, et disséminons à travers le globe vos petits chatons&nbsp;![/b]",[b]Erst kürzlich konnten wir unsere ersten Filialen in ländlichen Gebieten Chinas und in Afrika eröffnen. Süße Kätzchen sind einfach ein weltweites Phänomen![/b],"[b]Di recente ci siamo espansi nelle zone rurali della Cina e dell'Africa, diffondendo gattini in tutto il globo![/b]","[b]Nós expandimos recentemente para áreas rurais da China e da África, espalhando gatinhos pelo mundo![/b]",[b]我们最近扩展到了中国和非洲的农村地区，把小猫传播到全球！[/b]
 NPC_TRACY_TRACY_FOODSTORAGE2_3,[m:bored]...,,[m:bored]...,[m:bored]...,[m:bored]…,[m:bored]...,[m:bored]...,[m:bored]…
@@ -6258,7 +6258,7 @@ NPC_TRACY_TRACY_FOODSTORAGE3_13,[m:veryangry][a:shake]DISGUSTING![/a],,[m:veryan
 NPC_TRACY_TRACY_FOODSTORAGE3_14,[m:shocked]. . .,,[m:shocked]. . .,[m:shocked]. . .,[m:shocked]. . .,[m:shocked]. . .,[m:shocked]. . .,[m:shocked]. . .
 NPC_TRACY_TRACY_FOODSTORAGE3_15,"[m:happy][b]Thanks for shopping at P Mart, and have a blessed day![/b]",,[m:happy][b]Gracias por comprar en MercaMascota. ¡Que tengas un buen día!,"[m:happy][b]Merci d'avoir fait vos achats chez
 Patoune Market. Nous vous souhaitons une excellente journée&nbsp;![/b]",[m:happy][b]P-Markt dankt dir für deine Treue und wünscht dir einen wunderbaren Tag![/b],[m:happy][b]Grazie per aver scelto P Mart e buona giornata![/b],[m:happy][b]Agradecemos por comprar na P Mart e tenha um dia abençoado![/b],[m:happy][b]感谢您在P Mart购物，祝您有个美好的一天！[/b]
-NPC_TRACY_TRACY_FOODSTORAGE3_16,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... argh...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...Ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ... 
+NPC_TRACY_TRACY_FOODSTORAGE3_16,[m:sad]... ugh ... ,,[m:sad]Uf... ,[m:sad]... argh...,[m:sad]…&nbsp;*seufz*&nbsp;… ,[m:sad]...Ugh...,[m:sad]...Ugh... ,[m:sad]... 噢 ...
 NPC_TRACY_TRACY_FOODSTORAGE4_1,[m:bored]. . .,,[m:bored]. . .,[m:bored]. . .,[m:bored]…,[m:bored]. . .,[m:bored]. . .,[m:bored]. . .
 NPC_TRACY_TRACY_FOODSTORAGE4_2,[m:default]So another food storage unit appeared in the back today...,,[m:default]Hoy ha aparecido en el almacén otra nevera de comida.,"[m:default]Voilà, un autre frigo à nourriture a été mis en réserve aujourd'hui...","[m:default]Also, du willst es vielleicht nicht glauben, aber da ist noch eine Futterbox aufgetaucht&nbsp;…","[m:default]Allora, oggi sul retro è apparso un altro contenitore per cibo...","[m:default]Então, outra unidade de armazenamento de comida apareceu lá nos fundos hoje...",[m:default]所以又有一个食物储存单位今天出现在后面……
 NPC_TRACY_TRACY_FOODSTORAGE4_3,"[m:questioning]What the hell are you doing with these things, seriously?",,"[m:questioning]En serio, ¿qué haces con esas cosas?","[m:questioning]Mais sans déconner, qu'est-ce que tu fous avec ces trucs&nbsp;?","[m:questioning]Jetzt mal ernsthaft, was machst du mit den Dingern?",[m:questioning]Che diavolo ci fai con questi affari esattamente?,"[m:questioning]O que diabos você está fazendo com essas coisas, sério?",[m:questioning]你到底在认真干什么这些东西？

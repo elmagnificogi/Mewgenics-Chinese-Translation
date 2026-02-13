@@ -299,11 +299,11 @@ HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:e
 HOUSE_STORAGE_NAME,Storage,,Almacén,Rangement,Lager,Deposito,Armazenamento,仓库
 HOUSE_QUEST_STORAGE_NAME,Quest Items,,Objetos de misión,Objets de quête,Questgegenstände,Oggetti missione,Itens de Missões,任务物品
 HOUSE_TRASH_NAME,Trash,,Basura,Poubelle,Müll,Cestino,Lixeira,垃圾
-HOUSE_TRASH_SUBTITLE,"(will be emptied at 
+HOUSE_TRASH_SUBTITLE,"(will be emptied at
 the end of the day)",,"(se vaciará
 al final del día)","(elle sera vidée
 en fin de journée)","(wird am Ende des
-Tages geleert)","(sarà svuotato alla 
+Tages geleert)","(sarà svuotato alla
 fine della giornata)",(é esvaziada no fim do dia),"(将在
 一天结束时清空)"
 HOUSE_CAT_INFO_LOWAGGRO,Low Aggression,,Agresividad baja,Agressivité basse,Niedrige Aggressivität,Bassa aggressività,Agressão baixa,低攻击性
@@ -655,7 +655,7 @@ CAT_NAME_MOD_COOL_M,,,,,,{Catname} fantastico,,
 CAT_NAME_MOD_COOL_F,,,,,,{Catname} fantastica,,
 CAT_NAME_MOD_COOL_N,,,,,,{Catname} spettacolare,,
 CAT_NAME_MOD_VEGAN,{Catname} (Vegan)|999,"since multiple mods can apply to the same cat, you can append |<number> to change the priority a name mod applies
-in this case, (Vegan) needs to come after other mods, so |1 means apply later. 
+in this case, (Vegan) needs to come after other mods, so |1 means apply later.
 (higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,,[m:{Catname}]（纯素食者）|999
 CAT_NAME_MOD_VEGAN_M,,,,,,{Catname} (Vegano)|999,{Catname} (Vegano)|999,
 CAT_NAME_MOD_VEGAN_F,,,,,,{Catname} (Vegana)|999,{Catname} (Vegana)|999,
