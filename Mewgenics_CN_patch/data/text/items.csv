@@ -1663,7 +1663,7 @@ Encontre um item comum adicional no final de cada batalha.","在每场战斗开�
 "
 ITEM_EMPTYSYRINGE_NAME,Empty Syringe,,Jeringuilla vacía,Seringue vide,Leere Spritze,Siringa Vuota,Seringa Vazia,空注射器
 ITEM_EMPTYSYRINGE_DESC,"When you inflict Bleed or Poison, inflict +1 Bleed or Poison.",,"Al infligir hemorragia o veneno, esta unidad inflige +1 de hemorragia o veneno.","Au lieu d'infliger Saignement ou Poison, vous infligez Saignement +1&nbsp;ou Poison +1.","Verursache +1&nbsp;Blutung oder Gift, wenn du Blutung oder Gift verursachst.","Quando infliggi Sanguinamento o Veleno, infliggi +1 Sanguinamento o Veleno.","Ao aplicar sangramento ou veneno, aplique +1 de sangramento ou veneno.","当你造成流血或中毒时，
-额外造成 +1 流血或中毒。"
+额外造成 +1层流血或中毒。"
 ITEM_ENCHANTINGPOOP_NAME,Enchanting Poop,,Caca carismática,Merde enchantée,Bezauberndes Häufchen,Cacca Ammaliante,Cocô Encantado,附魔粪便
 ITEM_ENCHANTINGPOOP_DESC,Spawn a poop at the start of each battle.,,Genera una caca al inicio de cada combate.,Fait apparaître une merde au début de chaque combat.,Lasse am Anfang jedes Kampfes ein Häufchen erscheinen.,Genera una cacca all'inizio di ogni battaglia.,Gere um cocô no início de cada batalha.,"在每场战斗开始时生成一坨粪便。
 "
@@ -1971,8 +1971,8 @@ Vous débutez avec Poison +2.","Verursache +2&nbsp;Gift, wenn du Gift verursachs
 Beginne jeden Kampf mit Gift&nbsp;2.","Quando infliggi Veleno, infliggi +2 Veleno.
 Inizi con Veleno 2.","Ao aplicar veneno, aplique +2 de veneno.
 Inicie com veneno 2.","当你施加中毒时，
-额外施加+2中毒。
-初始中毒值为2。"
+额外施加+2层中毒。
+初始2层中毒。"
 ITEM_NINNYSTICK_NAME,Ninny Stick,,Bastón de bufón,Bâton ridicule,Narrenstab,Bastone dello Sciocco,Pauzinho,笨蛋棒
 ITEM_NINNYSTICK_DESC,"Reroll your other equipped items at the end of each battle.
 You can reroll your options when you level up.",,"Cambia al azar los otros objetos equipados al final de cada combate.
@@ -2028,7 +2028,7 @@ ITEM_RAGEJUICE_DESC,"Use: Gain +4 [img:str], +4 [img:spd], Brace 2 and Madness f
 持续整场战斗。
 [s:.7](每场战斗可使用一次。)[/s]"
 ITEM_RATBEZOAR_NAME,Rat Bezoar,,Bezoar de rata,Bézoard de rat,Rattenbezoar,Bezoario di Ratto,Bezoar de Rato,鼠瘤
-ITEM_RATBEZOAR_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,中毒 1。
+ITEM_RATBEZOAR_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,1层剧毒。
 ITEM_RATHEART_NAME,Rat Heart,,Corazón de rata,Cœur de rat,Rattenherz,Cuore di Ratto,Coração de Rato,鼠心
 ITEM_RATHEART_DESC,,,,,,,,
 ITEM_RATTAIL_NAME,Rat Tail,,Cola de rata,Queue de rat,Rattenschwanz,Coda di Ratto,Cauda de Rato,鼠尾
@@ -2475,7 +2475,7 @@ ITEM_ROTTENMEAT_DESC,"Use: Gain Poison 1, then your basic attack becomes Puke Sh
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Erhalte Gift&nbsp;1. Dein Grundangriff wird zu Kotzeschuss.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Ottieni Veleno 1, poi il tuo attacco base diventa Conato di Vomito.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: obtenha veneno 1, e então seu ataque básico se torna Disparo de Vômito.
-[s:.7](Um uso por batalha.)[/s]","使用：获得中毒 1，
+[s:.7](Um uso por batalha.)[/s]","使用：获得1层中毒，
 然后你的基础攻击变为呕吐射击。
 
 [s:.7](每场战斗一次。)[/s]"
@@ -2861,7 +2861,7 @@ Seu ataque básico aplica veneno 1.
 Aplique veneno 1 em unidades que entram em contato com você.","战斗开始时对所有单位施加1层中毒。
 
 你的基础攻击会造成1层中毒。
-与您接触的单位会被施加1层中毒。
+与你接触的单位会被施加1层中毒。
 "
 ARMOR_TRAININGBAND_NAME,Training Band,,Felpa de entrenamiento,Bandeau d'entraînement,Fitnessband,Fascia da Allenamento,Tira de Treinamento,训练护腕
 ARMOR_TRAININGBAND_DESC,+20% Crit Chance.,,+20 % de probabilidad de crítico.,Chances de coup critique +20&nbsp;%.,+20&nbsp;% kritische Trefferchance.,+20% probabilità di colpo critico.,+20% de chance de crítico.,+20% 暴击率。
@@ -3926,8 +3926,8 @@ Pisotón. 3 de hemorragia.","Épines sanglantes +3.
 Piétinement. Saignement +3.","+3&nbsp;Blutige Dornen.
 Trampel. Blutung&nbsp;3.","+3 Spine Insanguinate.
 Calpestamento. Sanguinamento 3.","+3 de espinhos de sangramento.
-Atropelamento. Sangramento 3.","+3 流血荆棘。
-践踏。流血 3。"
+Atropelamento. Sangramento 3.","+3层流血荆棘。
+践踏。3层流血。"
 ARMOR_DEMONICNECKLACE_NAME,Demonic Necklace,,Gargantilla demoníaca,Collier démoniaque,Dämonische Halskette,Collana Demoniaca,Colar Demoníaco,恶魔项链
 ARMOR_DEMONICNECKLACE_DESC,"Bruise 1. When you take damage, gain +2 Damage.",,"1 de moratón. Al sufrir daño, obtiene +2 de daño.",Contusion +1. Dégâts +2&nbsp;quand vous subissez des dégâts.,"Beulen&nbsp;1. Wenn du Schaden erleidest, erhalte +2&nbsp;Schaden.","Livido 1. Quando subisci danno, ottieni +2 al Danno.","Contusão 1. Ao sofrer dano, obtenha +2 de dano.",挫伤 1。受到伤害时，获得 +2 伤害。
 SETBONUS_DEMONIC_NAME,Demonic Set Bonus!,,¡Bonificación de conjunto demoníaco!,Bonus d'ensemble&nbsp;: démoniaque&nbsp;!,Setbonus: Dämon!,Bonus Set: Demoniaco!,Bônus de Conjunto Demoníaco!,恶魔套装加成！
@@ -4112,11 +4112,11 @@ SETBONUS_FEATHERED_NAME,Feathered Set Bonus!,,¡Bonificación de conjunto emplum
 SETBONUS_FEATHERED_DESC,Flying.,,Vuela.,Vol.,Du fliegst.,Volo.,Voador.,飞行。
 ,,,,,,,,
 ARMOR_FECALHOOD_NAME,Fecal Hood,,Capucha fecal,Capuche fécale,Fäkalkapuze,Cappuccio Fecale,Capuz Fecal,粪便兜帽
-ARMOR_FECALHOOD_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,中毒 1。
+ARMOR_FECALHOOD_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,剧毒。
 ARMOR_FECALMASK_NAME,Fecal Mask,,Máscara fecal,Masque fécal,Fäkalmaske,Maschera Fecale,Máscara Fecal,粪便面具
-ARMOR_FECALMASK_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,中毒 1。
+ARMOR_FECALMASK_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,剧毒。
 ARMOR_FECALNECKLACE_NAME,Fecal Necklace,,Gargantilla fecal,Collier fécal,Fäkalhalskette,Collana Fecale,Colar Fecal,粪便项链
-ARMOR_FECALNECKLACE_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,中毒 1。
+ARMOR_FECALNECKLACE_DESC,Poisonous 1.,,Inflige 1 de envenenamiento.,Toxique +1.,Giftig&nbsp;1.,Velenoso 1.,Venenoso 1.,剧毒。
 SETBONUS_FECAL_NAME,Fecal Set Bonus!,,¡Bonificación de conjunto fecal!,Bonus d'ensemble&nbsp;: fécal&nbsp;!,Setbonus: Fäkalrüstung!,Bonus Set: Fecale!,Bônus de Conjunto Fecal!,粪便套装加成！
 SETBONUS_FECAL_DESC,"Poisonous 1.
 Your basic attack inflicts Poison.",,"1 de envenenamiento.
@@ -4124,7 +4124,7 @@ El ataque básico inflige veneno.","Toxique +1.
 Votre attaque de base inflige Poison.","Giftig&nbsp;1.
 Dein Grundangriff verursacht Gift.","Velenoso 1.
 Il tuo attacco base infligge Veleno.","Venenoso 1.
-Seu ataque básico aplica veneno.","毒性 1。
+Seu ataque básico aplica veneno.","剧毒。
 你的基础攻击会造成中毒。"
 ,,,,,,,,
 ARMOR_FIGHTERHELM_NAME,Fighter's Helm,,Casco de luchador,Casque de pugiliste,Kriegerhelm,Elmo del Guerriero,Elmo de Lutador,战士头盔
@@ -4348,10 +4348,10 @@ SETBONUS_HUNTER_DESC,+50% Crit Chance while standing in tall grass.,,+50 % de p
 "
 ,,,,,,,,
 ARMOR_HYBRIDHAT_NAME,Hybrid Hat,,Sombrero híbrido,Chapeau hybride,Hybridhut,Cappello Ibrido,Chapéu Híbrido,混合帽
-ARMOR_HYBRIDHAT_DESC,Start with a bonus move and Bleed 1.,,Empieza con una bonificación de movimiento y 1 de hemorragia.,Vous débutez avec Déplacement bonus +1&nbsp;et Saignement +1.,Beginne jeden Kampf mit einer Bonusbewegung und Blutung&nbsp;1.,Inizi con un movimento bonus e Sanguinamento 1.,Inicie com um movimento bônus e sangramento 1.,"开始时获得一次额外移动和流血1效果。
+ARMOR_HYBRIDHAT_DESC,Start with a bonus move and Bleed 1.,,Empieza con una bonificación de movimiento y 1 de hemorragia.,Vous débutez avec Déplacement bonus +1&nbsp;et Saignement +1.,Beginne jeden Kampf mit einer Bonusbewegung und Blutung&nbsp;1.,Inizi con un movimento bonus e Sanguinamento 1.,Inicie com um movimento bônus e sangramento 1.,"开始时获得一次额外移动和1层流血效果。
 "
 ARMOR_HYBRIDMASK_NAME,Hybrid Mask,,Máscara híbrida,Masque hybride,Hybridmaske,Maschera Ibrida,Máscara Híbrida,混合面具
-ARMOR_HYBRIDMASK_DESC,Start with a bonus attack and Poison 1.,,Empieza con una bonificación de ataque y 1 de veneno.,Vous débutez avec Attaque bonus +1&nbsp;et Poison +1.,Beginne jeden Kampf mit einem Bonusangriff und Gift&nbsp;1.,Inizi con un attacco bonus e Veleno 1.,Inicie com um ataque bônus e veneno 1.,"开始时获得一次额外攻击和中毒1效果。
+ARMOR_HYBRIDMASK_DESC,Start with a bonus attack and Poison 1.,,Empieza con una bonificación de ataque y 1 de veneno.,Vous débutez avec Attaque bonus +1&nbsp;et Poison +1.,Beginne jeden Kampf mit einem Bonusangriff und Gift&nbsp;1.,Inizi con un attacco bonus e Veleno 1.,Inicie com um ataque bônus e veneno 1.,"开始时获得一次额外攻击和1层中毒效果。
 "
 ARMOR_HYBRIDNECKLACE_NAME,Hybrid Necklace,,Gargantilla híbrida,Collier hybride,Hybridhalskette,Collana Ibrida,Colar Híbrido,混合项链
 ARMOR_HYBRIDNECKLACE_DESC,Start with +5 Charge and Bruise 1.,,Empieza con +5 de carga y 1 de moratón.,Vous débutez avec Charge +5&nbsp;et Contusion +1.,Beginne jeden Kampf mit +5&nbsp;Ladung und Beulen&nbsp;1.,Inizi con +5 Carica e Livido 1.,Inicie com +5 cargas e contusão 1.,开始时获得+5蓄力和挫伤1效果。
@@ -4362,7 +4362,7 @@ Se duplica el primer hechizo que se lance cada turno.","Contusion +1. Poison +1.
 Le premier sort que vous lancez chaque tour est lancé deux fois.","Beulen&nbsp;1. Gift&nbsp;1. Blutung&nbsp;1.
 Der erste Zauber, den du pro Zug wirkst, wird zweimal gewirkt.","Livido 1. Veleno 1. Sanguinamento 1.
 Il primo incantesimo che lanci ogni turno viene lanciato due volte.","Contusão 1. Veneno 1. Sangramento 1.
-O primeiro encantamento que você lança em cada turno é lançado duas vezes.","挫伤 1。中毒 1。流血 1。
+O primeiro encantamento que você lança em cada turno é lançado duas vezes.","1层挫伤。1层中毒。1层流血。
 
 你每回合施放的第一个法术会施放两次。"
 ,,,,,,,,
@@ -4766,7 +4766,7 @@ Zerbrechlich, Spröde, Leicht brennbar, Wasserlöslich.","+1 Spine Insanguinate.
 Il tuo attacco base infligge Sanguinamento.
 Fragile, Friabile, Infiammabile, si scioglie in acqua.","+1 de espinhos de sangramento.
 Seu ataque básico aplica sangramento.
-Frágil, quebradiço, inflamável, derrete na água.","+1 流血荆棘。
+Frágil, quebradiço, inflamável, derrete na água.","+1层流血荆棘。
 你的普通攻击会造成流血效果。
 易碎，脆弱，易燃，遇水融化。"
 ARMOR_PAPERMASK_NAME,Paper Mask,,Máscara de papel,Masque en papier,Papiermaske,Maschera di Carta,Máscara de Papel,纸面具
@@ -4782,7 +4782,7 @@ Zerbrechlich, Spröde, Leicht brennbar, Wasserlöslich.","+1 Spine Insanguinate.
 Il tuo attacco base infligge Sanguinamento.
 Fragile, Friabile, Infiammabile, si scioglie in acqua.","+1 de espinhos de sangramento.
 Seu ataque básico aplica sangramento.
-Frágil, quebradiço, inflamável, derrete na água.","+1 流血荆棘。
+Frágil, quebradiço, inflamável, derrete na água.","+1层流血荆棘。
 你的普通攻击会造成流血效果。
 易碎，脆弱，易燃，遇水融化。"
 ARMOR_PAPERARMOR_NAME,Paper Shoulder Pads,,Hombreras de papel,Épaulettes en papier,Papierschulterpolster,Spalline di Carta,Ombreiras de Papel,纸护肩
@@ -4798,11 +4798,11 @@ Zerbrechlich, Spröde, Leicht brennbar, Wasserlöslich.","+1 Spine Insanguinate.
 Il tuo attacco base infligge Sanguinamento.
 Fragile, Friabile, Infiammabile, si scioglie in acqua.","+1 de espinhos de sangramento.
 Seu ataque básico aplica sangramento.
-Frágil, quebradiço, inflamável, derrete na água.","+1 流血荆棘。
+Frágil, quebradiço, inflamável, derrete na água.","+1层流血荆棘。
 你的普通攻击会造成流血效果。
 易碎，脆弱，易燃，遇水融化。"
 SETBONUS_PAPER_NAME,Paper Set Bonus!,,¡Bonificación de conjunto de papel!,Bonus d'ensemble&nbsp;: papier&nbsp;!,Setbonus: Papierrüstung!,Bonus Set: Carta!,Bônus de Conjunto de Papel!,纸套装加成！
-SETBONUS_PAPER_DESC,+1 Bleed Thorns. Paper Set Pieces are no longer Fragile nor Brittle.,,+1 de espinas hemorrágicas. Las piezas de papel ya no sufren fragilidad ni endeblez.,Épines sanglantes +1. Les éléments de l'ensemble en papier ne sont plus Fragiles ni Cassants.,+1&nbsp;Blutige Dornen. Papiersetgegenstände sind nicht mehr zerbrechlich oder spröde.,+1 Spine Insanguinate. I pezzi del set Carta non sono più fragili né friabili.,+1 de espinhos de sangramento. As peças do conjunto não são mais frágeis ou quebradiças.,"+1 流血荆棘。
+SETBONUS_PAPER_DESC,+1 Bleed Thorns. Paper Set Pieces are no longer Fragile nor Brittle.,,+1 de espinas hemorrágicas. Las piezas de papel ya no sufren fragilidad ni endeblez.,Épines sanglantes +1. Les éléments de l'ensemble en papier ne sont plus Fragiles ni Cassants.,+1&nbsp;Blutige Dornen. Papiersetgegenstände sind nicht mehr zerbrechlich oder spröde.,+1 Spine Insanguinate. I pezzi del set Carta non sono più fragili né friabili.,+1 de espinhos de sangramento. As peças do conjunto não são mais frágeis ou quebradiças.,"+1层流血荆棘。
 纸套装部件不再易碎或脆弱。"
 ,,,,,,,,
 SETBONUS_PARASITE_NAME,Parasite Set Bonus!,,¡Bonificación de conjunto parásito!,Bonus d'ensemble&nbsp;: parasite&nbsp;!,Setbonus: Parasiten!,Bonus Set: Parassita!,Bônus de Conjunto de Parasita!,寄生体套装加成！
@@ -5064,7 +5064,7 @@ ARMOR_SLIMYNECKLACE_DESC,+15% chance to catch projectiles. Inflict Immobile 1 on
 单位施加僵 定身 1。
 "
 SETBONUS_SLIMY_NAME,Slimy Set Bonus!,,¡Bonificación de conjunto viscoso!,Bonus d'ensemble&nbsp;: gluant&nbsp;!,Setbonus: Schleimige Rüstung!,Bonus Set: Bava!,Bônus de Conjunto Gosmento!,粘液套装加成！
-SETBONUS_SLIMY_DESC,Poisonous 2.,,2 de envenenamiento.,Toxique +2.,Giftig&nbsp;2.,Velenoso 2.,Venenoso 2.,中毒 2。
+SETBONUS_SLIMY_DESC,Poisonous 2.,,2 de envenenamiento.,Toxique +2.,Giftig&nbsp;2.,Velenoso 2.,Venenoso 2.,2层剧毒。
 ,,,,,,,,
 ARMOR_SLUDGEHAT_NAME,Sludge Hat,,Gorro residual,Chapeau bourbeux,Schlammhut,Cappello di Fanghiglia,Chapéu de Lodo,淤泥帽
 ARMOR_SLUDGEHAT_DESC,,,,,,,,
@@ -5558,7 +5558,7 @@ Quando si rompe, trovi una Perla.","5% de chance de quebrar quando você sofre d
 Quando este item se quebrar, encontre uma pérola.","受到伤害时有5%的几率破碎。
 破裂时，会获得一颗珍珠。"
 ITEM_ALLURINGDOODIE_NAME,Alluring Doodie,,Mojoncito carismático,Étron alléchant,Verlockendes Häufchen,Cacchina Adescante,Cocô Atraente,诱人便便
-ITEM_ALLURINGDOODIE_DESC,10% chance to eat poop and gain Poison 1 each turn.,,10 % de probabilidad de comer caca y obtener 1 de veneno cada turno.,10&nbsp;% de chances de manger de la merde et de subir Poison +1&nbsp;chaque tour.,"10%ige Wahrscheinlichkeit pro Zug, ein Häufchen zu fressen und Gift&nbsp;1 zu erleiden.",10% di probabilità di mangiare della cacca e ottenere Veleno 1 a ogni turno.,10% de chance de comer cocô e obter veneno 1 em cada turno.,"每回合有10%的几率吃掉便便并获得中毒1。
+ITEM_ALLURINGDOODIE_DESC,10% chance to eat poop and gain Poison 1 each turn.,,10 % de probabilidad de comer caca y obtener 1 de veneno cada turno.,10&nbsp;% de chances de manger de la merde et de subir Poison +1&nbsp;chaque tour.,"10%ige Wahrscheinlichkeit pro Zug, ein Häufchen zu fressen und Gift&nbsp;1 zu erleiden.",10% di probabilità di mangiare della cacca e ottenere Veleno 1 a ogni turno.,10% de chance de comer cocô e obter veneno 1 em cada turno.,"每回合有10%的几率吃掉便便并获得1层中毒。
 "
 ITEM_BADSPLINTERS_NAME,Bad Splinters,,Astillas malvadas,Vilaines échardes,Bösartige Splitter,Schegge Cattive,Farpas,坏木屑
 ITEM_BADSPLINTERS_DESC,+2 Thorns.,,+2 de espinas.,Épines +2.,+2&nbsp;Dornen.,+2 Spine.,+2 de espinhos.,+2 荆棘。
@@ -5680,10 +5680,10 @@ ARMOR_EXPERIMENTALTREATMENT_FIXED_DESC,Your spells cost 1 less for each disorder
 消耗减少 1。"
 ARMOR_FARTFACE_NAME,Fart Face,,Caraculo,Face de pet,Furzgesicht,Faccia da Peto,Cara de Pum,毒脸盔甲
 ARMOR_FARTFACE_DESC,Side Quest Item. Apply Poison 1 to everything at the start of the battle.,,Objeto de misión secundaria. Aplica 1 de veneno a todo al inicio del combate.,Objet de quête secondaire. Toutes les unités subissent Poison +1&nbsp;en début de combat.,Nebenquestgegenstand. Verursache am Anfang des Kampfes bei allen Einheiten Gift&nbsp;1.,Oggetto per missione secondaria. Applichi Veleno 1 a tutto all'inizio della battaglia.,Item de missão secundária. Aplique veneno 1 em tudo no início da batalha.,"支线任务物品。
-战斗开始时对所有单位施加 中毒 1。
+战斗开始时对所有单位施加1层中毒。
 "
 ARMOR_FARTFACE_FIXED_NAME,Robo Fart Face,,Caraculo robótico,Face de pet robot,Robo-Furzgesicht,Faccia da Peto Robotica,Cara de Pum Robô,机器人屁脸
-ARMOR_FARTFACE_FIXED_DESC,Apply Poison 1 to all enemies at the start of the battle.,,Aplica 1 de veneno a todos los enemigos al inicio del combate.,Tous les ennemis subissent Poison +1&nbsp;en début de combat.,Verursache am Anfang des Kampfes bei allen Gegnern Gift&nbsp;1.,Applica Veleno 1 a tutti i nemici all'inizio della battaglia.,Aplique veneno 1 em todos os inimigos no início da batalha.,在战斗开始时对所有敌人施加中毒1。
+ARMOR_FARTFACE_FIXED_DESC,Apply Poison 1 to all enemies at the start of the battle.,,Aplica 1 de veneno a todos los enemigos al inicio del combate.,Tous les ennemis subissent Poison +1&nbsp;en début de combat.,Verursache am Anfang des Kampfes bei allen Gegnern Gift&nbsp;1.,Applica Veleno 1 a tutti i nemici all'inizio della battaglia.,Aplique veneno 1 em todos os inimigos no início da batalha.,在战斗开始时对所有敌人施加1层中毒。
 ARMOR_GUILLOTINASHEAD_NAME,Guillotina's Head,,Cabeza de Guillotina,Tête de Guillotina,Guillotinas Kopf,Testa di Guillotina,Cabeça de Guilhotina,断头台的头颅
 ARMOR_GUILLOTINASHEAD_DESC,"Take it to the Meat Altar in the Throbbing Domain.
 All battles are Hard battles. Enemies will attack you instead of your allies if they can. Units that contact or attack you have a chance to be Feared. Your basic attack has a +10% chance to inflict Fear.",,"Hay que llevarla al altar de carne, en el Dominio Palpitante.

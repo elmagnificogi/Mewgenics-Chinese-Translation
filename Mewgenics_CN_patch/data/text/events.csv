@@ -8851,7 +8851,7 @@ Nota un burbujeo en el estómago y un sabor tóxico en la lengua. ¡Tiene el imp
 {catname} spürt, wie der Magen plötzlich blubbert und ätzende Flüssigkeit wieder hochkommt. {catname} muss sich dringendst übergeben!",,,"{catname} 拧开瓶盖，喝下那奇怪的液体。
 
 他们感到胃里咕噜咕噜响，嘴里溅出一股毒辣的味道。{catname} 感觉强烈想吐！"
-EVENT_BOTTLEOFVIPERBOOZE_REW3,{catname} takes a gulp of the liquid and immediately begins convulsing as poison ravages {his} body.,drink bad,{catname} da un trago del líquido y al momento empieza a convulsionar mientras el veneno hace estragos en su cuerpo.,{catname} prend une gorgée du liquide et se met immédiatement à convulser. Le poison ravage son corps.,{catname} probiert einen Schluck der Flüssigkeit. {He} zuckt zusammen und Gift rast durch {his}e Adern.,{catname} fa un sorso del liquido e inizia subito ad avere le convulsioni mentre il veleno devasta il suo corpo.,{catname} toma um gole do líquido e imediatamente começa a convulsionar enquanto o veneno devasta seu corpo.,{catname} 喝了一口液体，立刻开始抽搐，中毒正侵袭着 {his} 的身体。
+EVENT_BOTTLEOFVIPERBOOZE_REW3,{catname} takes a gulp of the liquid and immediately begins convulsing as poison ravages {his} body.,drink bad,{catname} da un trago del líquido y al momento empieza a convulsionar mientras el veneno hace estragos en su cuerpo.,{catname} prend une gorgée du liquide et se met immédiatement à convulser. Le poison ravage son corps.,{catname} probiert einen Schluck der Flüssigkeit. {He} zuckt zusammen und Gift rast durch {his}e Adern.,{catname} fa un sorso del liquido e inizia subito ad avere le convulsioni mentre il veleno devasta il suo corpo.,{catname} toma um gole do líquido e imediatamente começa a convulsionar enquanto o veneno devasta seu corpo.,{catname} 喝了一口液体，立刻开始抽搐，毒素正侵袭着 {his} 的身体。
 EVENT_BOTTLEOFVIPERBOOZE_REW3_M,,,,,,,,
 EVENT_BOTTLEOFVIPERBOOZE_REW3_F,,,,,,,,
 EVENT_BOTTLEOFVIPERBOOZE_REW3_N,,,,,,,,
@@ -13705,7 +13705,7 @@ Die Giftpfeile müssen ein extrem starkes Gift enthalten haben&nbsp;…
 
 I dardi devono essere stati cosparsi con qualcosa di persino peggiore del veleno...","Dardos envenenados saltam das fendas nas paredes e acertam {catname}, que recua uivando de dor!
 
-Os dardos deviam estar impregnados com algo ainda pior que veneno...","中毒的飞镖从墙上的缝隙中射出，刺中了{catname}。{He} 痛苦地后退，嚎叫着！
+Os dardos deviam estar impregnados com algo ainda pior que veneno...","带毒的飞镖从墙上的缝隙中射出，刺中了{catname}。{He} 痛苦地后退，嚎叫着！
 
 这些飞镖里一定掺杂了比毒药更致命的东西……"
 EVENT_MYSTERIOUSTOMB1_REW4_M,,,,,,,,

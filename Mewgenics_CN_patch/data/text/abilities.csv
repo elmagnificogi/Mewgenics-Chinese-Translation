@@ -131,7 +131,7 @@ ABILITY_HUNT2_DESC,A stronger ranged attack that turns anything it kills into me
 ABILITY_FLEX_NAME,Flex,,Demostración,Flex,Muskelprotz,Contrazione,Flexão,灵活
 ABILITY_FLEX_DESC,Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.,,Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 1 de retroceso a cada unidad adyacente.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+1&nbsp;à chaque unité adjacente.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 1&nbsp;Rückstoß.,Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 1 Contraccolpo a ogni unità adiacente.,Obtenha +1 de preparação temporária e cause 1 de empurrão a cada unidade adjacente.,"获得 +1 临时护甲，
 直到你的下一回合，
-并对每个相邻单位造成1击退。"
+并对每个相邻单位造成1格击退。"
 ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knockback to each adjacent unit.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 3 de retroceso a cada unidad adyacente.
 [s:.7](Este hechizo cuesta menos).[/s]",Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+3&nbsp;à chaque unité adjacente. [s:.7](Coût réduit.)[/s],"Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 3&nbsp;Rückstoß.
@@ -139,7 +139,7 @@ ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knoc
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de preparação temporária e cause 3 de empurrão a cada unidade adjacente.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时护甲，
 直到你的下一回合，
-并对每个相邻单位造成3击退。
+并对每个相邻单位造成3格击退。
 
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_DART_NAME,Dart,,Dardo,Clou perçant,Wurfpfeil,Dardo,Dardo,飞镖
@@ -170,7 +170,7 @@ ABILITY_OVERTHERE2_DESC,Units within three tiles of you turn away from you.,,Las
 ABILITY_BUTTSCOOT_NAME,Butt Scoot,,Arrastre de culo,Faites de la place,Hinternhopser,Scivolata sul Fondoschiena,Esfregão de Traseiro,屁股滑行
 ABILITY_BUTTSCOOT_DESC,"Move 1 tile, leaving a maggot familiar behind you.",,Se mueve 1 casilla y deja un familiar gusano atrás.,Bougez d'une case et laissez un asticot de compagnie derrière vous.,Bewege dich um 1&nbsp;Feld und hinterlasse einen Madenbegleiter.,"Ti sposti di 1 casella, lasciando un famiglio di larva dietro di te.","Mova-se por 1 espaço, deixando um familiar verme para trás.
 ","移动1格，
-留下一个蛆虫召唤物在你身后。"
+留下一个蛆虫宠物在你身后。"
 ABILITY_BUTTSCOOT2_DESC,"Move up to 3 tiles, leaving a maggot familiar behind you.",,Se mueve hasta 3 casillas y deja un familiar gusano atrás.,Bougez jusqu'à 3&nbsp;cases et laissez un asticot de compagnie derrière vous.,Bewege dich um bis zu 3&nbsp;Felder und hinterlasse einen Madenbegleiter.,"Ti sposti fino a 3 caselle, lasciando un famiglio di larva dietro di te.","Mova-se por até 3 espaços, deixando um familiar verme para trás.","移动最多3格，
 留下一个蛆虫宠物在你身后。"
 ABILITY_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,困惑
@@ -2541,17 +2541,17 @@ ABILITY_STEPIN_NAME,Step In,,Intervención,Intervention,Einschreiten,Avvicendame
 ABILITY_STEPIN_DESC,Swap positions with a familiar.,,Intercambia posiciones con un familiar.,Échangez de position avec un familier.,Tausche die Position mit einem Begleiter.,Scambi la tua posizione con un famiglio.,Troque de posição com um familiar.,与一个宠物交换位置。
 ABILITY_STEPIN2_DESC,Swap positions with any unit.,,Intercambia posiciones con cualquier unidad.,Échangez de position avec n'importe quelle unité.,Tausche die Position mit einer beliebigen Einheit.,Scambi la tua posizione con una qualsiasi unità.,Troque de posição com qualquer unidade.,与任何单位交换位置。
 ABILITY_BATTLECRY_NAME,Battle Cry,,Grito de combate,Cri de ralliement,Kampfschrei,Urlo di Battaglia,Grito de Batalha,战斗呐喊
-ABILITY_BATTLECRY_DESC,Give all familiars in an area +2 Damage. ,,Otorga a todos los familiares en un área +2 de daño. ,Confère Dégâts&nbsp;+2&nbsp;à tous les familiers dans une zone.,Verleihe allen Begleitern in einem bestimmten Bereich +2&nbsp;Schaden. ,Infliggi +2 di danno a tutti i famigli presenti in un'area.,Conceda +2 de dano a todos os familiares em uma área.,"给区域内所有召唤兽 +2 伤害。
+ABILITY_BATTLECRY_DESC,Give all familiars in an area +2 Damage. ,,Otorga a todos los familiares en un área +2 de daño. ,Confère Dégâts&nbsp;+2&nbsp;à tous les familiers dans une zone.,Verleihe allen Begleitern in einem bestimmten Bereich +2&nbsp;Schaden. ,Infliggi +2 di danno a tutti i famigli presenti in un'area.,Conceda +2 de dano a todos os familiares em uma área.,"给区域内所有宠物 +2 伤害。
 "
-ABILITY_BATTLECRY2_DESC,Give all familiars +3 Damage.,,Otorga a todos los familiares +3 de daño.,Confère Dégâts&nbsp;+3&nbsp;à tous les familiers.,Verleihe allen Begleitern +3&nbsp;Schaden.,Infliggi +3 di danno a tutti i famigli.,Conceda +3 de dano a todos os familiares.,给所有召唤兽 +3 伤害。
+ABILITY_BATTLECRY2_DESC,Give all familiars +3 Damage.,,Otorga a todos los familiares +3 de daño.,Confère Dégâts&nbsp;+3&nbsp;à tous les familiers.,Verleihe allen Begleitern +3&nbsp;Schaden.,Infliggi +3 di danno a tutti i famigli.,Conceda +3 de dano a todos os familiares.,给所有宠物 +3 伤害。
 ABILITY_STANDBYME_NAME,Stand By Me,,A mi vera,À mes côtés,Bleib bei mir,Resta con Me,Fique Comigo,伴我左右
 ABILITY_STANDBYME_DESC,Teleport an ally to you.,,Teletransporta a una unidad aliada junto a esta.,Téléportez une unité alliée près de vous.,Teleportiere einen Verbündeten an deine Seite.,Teletrasporti un alleato nella tua posizione.,Teletransporte um aliado até você.,将一个盟友传送到你身边。
 ABILITY_STANDBYME2_DESC,Teleport any unit to you.,,Teletransporta a cualquier unidad junto a esta.,Téléportez n'importe quelle unité près de vous.,Teleportiere eine beliebige Einheit an deine Seite.,Teletrasporti una qualsiasi unità nella tua posizione.,Teletransporte qualquer unidade até você.,将任何单位传送到你身边。
 ABILITY_BRAMBLEBURST_NAME,Bramble Burst,,Explosión de zarzas,Explosion épineuse,Dornenknall,Scoppio di Rovi,Explosão de Espinheiros,荆棘爆发
-ABILITY_BRAMBLEBURST_DESC,Explode a familiar causing damage to all adjacent units and spawning brambles.,,Hace explotar a un familiar que inflige daño a todas las unidades adyacentes y genera zarzas.,"Un familier explose, infligeant des dégâts à toutes les unités adjacentes. Des ronces apparaissent.","Sprenge einen Begleiter, verursache Schaden bei all seinen benachbarten Einheiten und lasse Dornengestrüpp erscheinen.","Fai esplodere un famiglio, danneggiando tutte le unità adiacenti e generando rovi.","Exploda um familiar, causando dano a todas as unidades adjacentes e gerando espinheiros.","使一个召唤兽爆炸，
+ABILITY_BRAMBLEBURST_DESC,Explode a familiar causing damage to all adjacent units and spawning brambles.,,Hace explotar a un familiar que inflige daño a todas las unidades adyacentes y genera zarzas.,"Un familier explose, infligeant des dégâts à toutes les unités adjacentes. Des ronces apparaissent.","Sprenge einen Begleiter, verursache Schaden bei all seinen benachbarten Einheiten und lasse Dornengestrüpp erscheinen.","Fai esplodere un famiglio, danneggiando tutte le unità adiacenti e generando rovi.","Exploda um familiar, causando dano a todas as unidades adjacentes e gerando espinheiros.","使一个宠物爆炸，
 对所有相邻单位造成伤害并生成荆棘。
 "
-ABILITY_BRAMBLEBURST2_DESC,Explode a familiar causing damage to all units in range 2 and spawning brambles.,,Hace explotar a un familiar que inflige daño a todas las unidades en un alcance de 2 casillas y genera zarzas.,"Un familier explose, infligeant des dégâts à toutes les unités dans un rayon de 2&nbsp;cases. Des ronces apparaissent.","Sprenge einen Begleiter, verursache Schaden bei allen Einheiten in Reichweite&nbsp;2 und lasse Dornengestrüpp erscheinen.","Fai esplodere un famiglio, danneggiando tutte le unità nel raggio di 2 caselle e generando rovi.","Exploda um familiar, causando dano a todas as unidades adjacentes em alcance 2 e gerando espinheiros.","使一个召唤兽爆炸，
+ABILITY_BRAMBLEBURST2_DESC,Explode a familiar causing damage to all units in range 2 and spawning brambles.,,Hace explotar a un familiar que inflige daño a todas las unidades en un alcance de 2 casillas y genera zarzas.,"Un familier explose, infligeant des dégâts à toutes les unités dans un rayon de 2&nbsp;cases. Des ronces apparaissent.","Sprenge einen Begleiter, verursache Schaden bei allen Einheiten in Reichweite&nbsp;2 und lasse Dornengestrüpp erscheinen.","Fai esplodere un famiglio, danneggiando tutte le unità nel raggio di 2 caselle e generando rovi.","Exploda um familiar, causando dano a todas as unidades adjacentes em alcance 2 e gerando espinheiros.","使一个宠物爆炸，
 对范围2内所有单位造成伤害并生成荆棘。
 "
 ABILITY_FLOWERFEET_NAME,Flower Feet,,Pies floridos,Patte fleurie,Blumenfüße,Piedi Fioriti,Pés de Flores,花之足
@@ -2568,18 +2568,18 @@ ABILITY_THORNYFEET2_DESC,"Move 3 tiles. Plant brambles as you move.
 [s:.7](Este encantamento custa menos.)[/s]","移动3格。移动时种植荆棘。
 [s:.7](此法术消耗减少。)[/s]"
 ABILITY_ENCOURAGE_NAME,Encourage,,Animación,Encouragement,Ermutigen,Incoraggiamento,Encorajar,鼓舞
-ABILITY_ENCOURAGE_DESC,Give a familiar an extra turn after this one.,,Otorga a un familiar un turno extra después de este.,Confère un tour bonus à un familier après ce tour.,Verleihe einem Begleiter nach diesem Zug einen zusätzlichen Zug.,Fornisci a un famiglio un turno aggiuntivo dopo questo.,Conceda a um familiar um turno adicional após este turno.,"使一个召唤兽在此回合后获得额外回合。
+ABILITY_ENCOURAGE_DESC,Give a familiar an extra turn after this one.,,Otorga a un familiar un turno extra después de este.,Confère un tour bonus à un familier après ce tour.,Verleihe einem Begleiter nach diesem Zug einen zusätzlichen Zug.,Fornisci a un famiglio un turno aggiuntivo dopo questo.,Conceda a um familiar um turno adicional após este turno.,"使一个宠物在此回合后获得额外回合。
 "
 ABILITY_ENCOURAGE2_DESC,"Give a familiar an extra turn after this one.
 [s:.7](This spell costs less and has increased range.)[/s]",,"Otorga a un familiar un turno extra después de este.
 [s:.7](Este hechizo cuesta menos y tiene mayor alcance).[/s]","Confère un tour bonus à un familier après ce tour. [s:.7](Coût réduit, portée augmentée.)[/s]","Verleihe einem Begleiter nach diesem Zug einen zusätzlichen Zug.
 [s:.7](Dieser Zauber kostet weniger und hat erhöhte Reichweite.)[/s]","Fornisci a un famiglio un turno aggiuntivo dopo questo.
 [s:.7](Quest'incantesimo costa meno e ha un raggio d'azione maggiore.)[/s]","Conceda a um familiar um turno adicional após este turno.
-[s:.7](Este encantamento possui custo reduzido e alcance aumentado.)[/s]","使一个召唤兽在此回合后获得额外回合。
+[s:.7](Este encantamento possui custo reduzido e alcance aumentado.)[/s]","使一个宠物在此回合后获得额外回合。
 
 [s:.7](此法术消耗减少且射程增加。)[/s]"
 ABILITY_PROTECTION_NAME,Protection,,Protección,Protection,Schutz,Protezione,Proteção,保护
-ABILITY_PROTECTION_DESC,Give a familiar +1 [img:divineshield].,,Otorga a un familiar +1 [img:divineshield].,Confère [img:divineshield]&nbsp;+1&nbsp;à un familier.,Verleihe einem Begleiter +1&nbsp;[img:divineshield].,Fornisci a un famiglio +1 allo [img:divineshield].,Conceda a um familiar +1 de [img:divineshield].,给一个召唤兽 +1 [img:divineshield]。
+ABILITY_PROTECTION_DESC,Give a familiar +1 [img:divineshield].,,Otorga a un familiar +1 [img:divineshield].,Confère [img:divineshield]&nbsp;+1&nbsp;à un familier.,Verleihe einem Begleiter +1&nbsp;[img:divineshield].,Fornisci a un famiglio +1 allo [img:divineshield].,Conceda a um familiar +1 de [img:divineshield].,给一个宠物 +1 [img:divineshield]。
 ABILITY_PROTECTION2_DESC,Give familiars in a large area +1 [img:divineshield].,,Otorga a un familiar en un área amplia +1 [img:divineshield].,Confère [img:divineshield]&nbsp;+1&nbsp;à des familiers en zone.,Verleihe Begleitern in einem großen Bereich +1&nbsp;[img:divineshield].,Fornisci ai famigli in un'area più ampia +1 allo [img:divineshield].,Conceda a familiares em uma área grande +1 de [img:divineshield].,在大范围内给予宠物 +1 [img:divineshield]。
 ABILITY_PROMOTE_NAME,Promote,,Ascenso,Promotion,Beförderung,Promozione,Promover,提升
 ABILITY_PROMOTE_DESC,The next familiar you spawn becomes a [img:champion] champion.,,El siguiente familiar que se genera se convierte en adalid [img:champion].,Votre prochain familier devient un [img:champion] champion.,"Der nächste Begleiter, den du rufst, wird zum [img:champion]&nbsp;Champion.",Il prossimo famiglio che generi diventerà un campione [img:champion].,O próximo familiar gerado por você se torna um campeão [img:champion].,"你召唤的下一个宠物变成 [img:champion] 冠军。
@@ -2820,7 +2820,7 @@ ABILITY_WEARETHECHAMPIONS_DESC,"Each familiar gains All Stats Up 2 and heals to 
 [s:.7](Se puede lanzar una vez por combate).[/s]",Tous les familiers gagnent Hausse de stats&nbsp;+2&nbsp;et se soignent complètement. [s:.7](Une fois par combat.)[/s],"Jeder Begleiter erhält einen Bonus von 2 auf alle Attribute und wird vollständig geheilt.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ogni famiglio ottiene Aumento delle Statistiche 2 e viene guarito completamente.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cada familiar obtém todos os atributos aumentados 2 e se cura completamente.
-[s:.7](Um lançamento por batalha.)[/s]","每个随从获得全属性提升2并恢复至满血。
+[s:.7](Um lançamento por batalha.)[/s]","每个宠物获得全属性提升2并恢复至满血。
 
 [s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_WEARETHECHAMPIONS2_DESC,"Each familiar gains All Stats Up 2 and heals to full.
@@ -2828,7 +2828,7 @@ ABILITY_WEARETHECHAMPIONS2_DESC,"Each familiar gains All Stats Up 2 and heals to
 [s:.7](Este hechizo cuesta 0 de maná. Se puede lanzar una vez por combate).[/s]",Tous les familiers gagnent Hausse de stats&nbsp;+2&nbsp;et se soignent complètement. [s:.7](Une fois par combat. Coûte 0&nbsp;mana.)[/s],"Jeder Begleiter erhält einen Bonus von 2 auf alle Attribute und wird vollständig geheilt.
 [s:.7](Dieser Zauber kostet 0&nbsp;Mana. Einmal pro Kampf verwendbar.)[/s]","Ogni famiglio ottiene Aumento delle Statistiche 2 e viene guarito completamente.
 [s:.7](Quest'incantesimo costa 0 mana. Lanciabile una volta per battaglia.)[/s]","Cada familiar obtém todos os atributos aumentados 2 e se cura completamente.
-[s:.7](Este encantamento custa 0 de mana. Um lançamento por batalha.)[/s]","每个随从获得全属性提升2并恢复至满血。
+[s:.7](Este encantamento custa 0 de mana. Um lançamento por batalha.)[/s]","每个宠物获得全属性提升2并恢复至满血。
 
 [s:.7](此法术消耗0法力。
 每场战斗可施放一次。)[/s]"
@@ -4783,15 +4783,15 @@ Quest'incantesimo diventa Lacerazione+.
 O dano que você causa a unidades com sangramento possui roubo de vida.
 Este encantamento se torna Lacerar+.
 [s:.7](Este encantamento custa 0 de mana.)[/s]","生命值降至1。
-你对出血单位造成的伤害具有吸血效果。
+你对流血单位造成的伤害具有吸血效果。
 
 该法术变为撕裂攻击+。
 "
 ABILITY_LACERATE_NAME,Lacerate,,Laceración,Lacération,Zerfetzen,Lacerazione,Lacerar,撕裂攻击
-ABILITY_LACERATE_DESC,A melee attack that inflicts Bleed 2.,,Un ataque cuerpo a cuerpo que inflige 2 de hemorragia.,Attaque au corps-à-corps qui inflige Saignement&nbsp;+2.,"Ein Nahkampfangriff, der Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo che infligge Sanguinamento 2.,Um ataque corpo-a-corpo que aplica sangramento 2.,"一次近战攻击，造成2层出血。
+ABILITY_LACERATE_DESC,A melee attack that inflicts Bleed 2.,,Un ataque cuerpo a cuerpo que inflige 2 de hemorragia.,Attaque au corps-à-corps qui inflige Saignement&nbsp;+2.,"Ein Nahkampfangriff, der Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo che infligge Sanguinamento 2.,Um ataque corpo-a-corpo que aplica sangramento 2.,"一次近战攻击，造成2层流血。
 "
 ABILITY_LACERATE2_DESC,A stronger melee attack that inflicts Bleed 2.,,Un ataque cuerpo a cuerpo más fuerte que inflige 2 de hemorragia.,Attaque au corps-à-corps plus puissante qui inflige Saignement&nbsp;+2.,"Ein stärkerer Nahkampfangriff, der Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo più forte che infligge Sanguinamento 2.,Um ataque corpo-a-corpo mais forte que aplica sangramento 2.,"一次更强的近战攻击，
-造成2层出血。"
+造成2层流血。"
 ABILITY_EXHAUSTINGBLOW_NAME,Exhausting Blow,,Golpe agotador,Coup épuisant,Erschöpfungsschlag,Colpo Estenuante,Golpe Exaustivo,疲惫一击
 ABILITY_EXHAUSTINGBLOW_DESC,"Dash forward one tile and attack with knockback.
 [s:.7](This spell's mana cost increases by 2 at the end of each of your turns.)[/s]",,"Se lanza hacia delante 1 casilla y ataca con retroceso.
@@ -6800,9 +6800,9 @@ ABILITY_FLATLINE2_DESC,"Down yourself. You don't get injured. Spawn a shadow cop
 [s:.7]复制体无法施放此技能或给予单位额外回合。
 [/s]"
 ABILITY_REPLACE_NAME,Replace,,Remplazo,Remplacement,Ersetzen,Rimpiazzo,Substituir,替换
-ABILITY_REPLACE_DESC,Teleport into a familiar and destroy it. Refresh your basic attack.,,Se teletransporta hacia un familiar y lo destruye. Restaura su ataque básico.,"Vous vous téléportez sur un familier, puis le détruisez. Votre attaque de base est rechargée.",Teleportiere dich in einen Begleiter und zerstöre ihn. Frische deinen Grundangriff auf.,Ti teletrasporti su un famiglio e lo distruggi. Ricarichi il tuo attacco base.,Teletransporte em um familiar e o destrua. Reinicie seu ataque básico.,"传送到一个召唤兽并摧毁它。
+ABILITY_REPLACE_DESC,Teleport into a familiar and destroy it. Refresh your basic attack.,,Se teletransporta hacia un familiar y lo destruye. Restaura su ataque básico.,"Vous vous téléportez sur un familier, puis le détruisez. Votre attaque de base est rechargée.",Teleportiere dich in einen Begleiter und zerstöre ihn. Frische deinen Grundangriff auf.,Ti teletrasporti su un famiglio e lo distruggi. Ricarichi il tuo attacco base.,Teletransporte em um familiar e o destrua. Reinicie seu ataque básico.,"传送到一个宠物并摧毁它。
 刷新你的普通攻击。"
-ABILITY_REPLACE2_DESC,Teleport into a familiar and destroy it. Refresh your basic attack and heal 5 HP.,,Se teletransporta hacia un familiar y lo destruye. Restaura su ataque básico y recupera 5 PS.,"Vous vous téléportez sur un familier, puis le détruisez. PV&nbsp;+5&nbsp;et votre attaque de base est rechargée.",Teleportiere dich in einen Begleiter und zerstöre ihn. Frische deinen Grundangriff auf und heile 5&nbsp;LP.,Ti teletrasporti su un famiglio e lo distruggi. Ricarichi il tuo attacco base e ti curi di 5 PS.,Teletransporte em um familiar e o destrua. Reinicie seu ataque básico e cure 5 PV.,"传送到一个召唤兽并摧毁它。
+ABILITY_REPLACE2_DESC,Teleport into a familiar and destroy it. Refresh your basic attack and heal 5 HP.,,Se teletransporta hacia un familiar y lo destruye. Restaura su ataque básico y recupera 5 PS.,"Vous vous téléportez sur un familier, puis le détruisez. PV&nbsp;+5&nbsp;et votre attaque de base est rechargée.",Teleportiere dich in einen Begleiter und zerstöre ihn. Frische deinen Grundangriff auf und heile 5&nbsp;LP.,Ti teletrasporti su un famiglio e lo distruggi. Ricarichi il tuo attacco base e ti curi di 5 PS.,Teletransporte em um familiar e o destrua. Reinicie seu ataque básico e cure 5 PV.,"传送到一个宠物并摧毁它。
 刷新你的普通攻击并恢复5生命值。
 "
 ABILITY_SUMMONBONES_NAME,Summon Bones,,Invocación de huesos,Invocation d'os,Knochen beschwören,Evoca Scheletro,Invocar Ossos,召唤骨骼
@@ -6969,7 +6969,7 @@ ABILITY_SEANCE_DESC,"Spawn a ghost Familiar that fades after its first turn.
 [s:.7](Se puede lanzar cuando la unidad está abatida. Si es así, genera una copia de sí misma en su lugar).[/s]","Vous invoquez un fantôme de compagnie qui disparaît après son premier tour. [s:.7]Disponible même K.O. Dans ce cas, vous invoquez un double d'ombre.[/s]","Rufe einen Geisterbegleiter, der nach seinem ersten Zug verschwindet.
 [s:.7]Kann gewirkt werden, während du ohnmächtig bist. In dem Fall rufst du stattdessen einen Schattenklon.[/s]","Generi un famiglio fantasma che svanisce dopo il suo primo turno.
 [s:.7]Lanciabile mentre sei in stato di KO. Se lo fai, il risultato è diverso: genererai una tua copia ombra.[/s]","Gere um familiar fantasma que desaparece após seu primeiro turno.
-[s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","召唤一个幽灵召唤兽，
+[s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","召唤一个幽灵宠物，
 第一回合后消失。
 [s:.7]倒地时可施放。若施放，
 则召唤一个自己的影子复制体代替。
@@ -6979,7 +6979,7 @@ ABILITY_SEANCE2_DESC,"Spawn a ghost Familiar that fades after its second turn.
 [s:.7](Se puede lanzar cuando la unidad está abatida. Si es así, genera una copia de sí misma en su lugar).[/s]","Vous invoquez un fantôme de compagnie qui disparaît après son deuxième tour. [s:.7]Disponible même K.O. Dans ce cas, vous invoquez un double d'ombre.[/s]","Rufe einen Geisterbegleiter, der nach seinem zweiten Zug verschwindet.
 [s:.7]Kann gewirkt werden, während du ohnmächtig bist. In dem Fall rufst du stattdessen einen Schattenklon.[/s]","Generi un famiglio fantasma che svanisce dopo il suo secondo turno.
 [s:.7]Lanciabile mentre sei in stato di KO. Se lo fai, il risultato è diverso: genererai una tua copia ombra.[/s]","Gere um familiar fantasma que desaparece após seu segundo turno.
-[s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","召唤一个幽灵召唤兽，
+[s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","召唤一个幽灵宠物，
 第二回合后消失。
 [s:.7]倒地时可施放。若施放，
 则召唤一个自己的影子复制体代替。

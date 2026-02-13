@@ -1197,10 +1197,10 @@ Familiares gerados por você obtêm +1 de escudo sagrado.","盟友的召唤兽�
 你召唤的召唤兽获得+1神圣护盾。
 "
 PASSIVE_POISONIVY_NAME,Poison Ivy,,Hiedra venenosa,Sumac vénéneux,Efeu,Edera Velenosa,Hera Venenosa,中毒藤
-PASSIVE_POISONIVY_DESC,You and familiar you spawn are Poisonous.,,Esta unidad y los familiares que genera infligen envenenamiento.,Vous et vos familiers êtes dans l'état Toxique.,"Du und Begleiter, die du rufst, sind Giftig.",Tu e il famiglio che generi avete lo stato Velenoso.,Você e seus familiares possuem venenoso.,你和你召唤的召唤兽拥有毒性。
+PASSIVE_POISONIVY_DESC,You and familiar you spawn are Poisonous.,,Esta unidad y los familiares que genera infligen envenenamiento.,Vous et vos familiers êtes dans l'état Toxique.,"Du und Begleiter, die du rufst, sind Giftig.",Tu e il famiglio che generi avete lo stato Velenoso.,Você e seus familiares possuem venenoso.,你和你召唤的召唤兽拥有剧毒。
 PASSIVE_POISONIVY2_DESC,"You and familiar you spawn have Poisonous 2.
 ",,Esta unidad y los familiares que genera infligen 2 de envenenamiento.,Vous et vos familiers êtes dans l'état Toxique&nbsp;+2.,"Du und Begleiter, die du rufst, haben Giftig&nbsp;2.
-",Tu e il famiglio che generi avete lo stato Velenoso 2.,Você e seus familiares possuem venenoso 2.,"你和你召唤的召唤兽拥有毒性2。
+",Tu e il famiglio che generi avete lo stato Velenoso 2.,Você e seus familiares possuem venenoso 2.,"你和你召唤的召唤兽拥有2层剧毒。
 "
 PASSIVE_PATHFINDER_NAME,Pathfinder,,Exploración,Pâturage,Pfadfinder,Esplorazione,Bandeirante,探路者
 PASSIVE_PATHFINDER_DESC,Grass tiles are free to move through for you and familiars you spawn. Plant grass as you walk.,,Esta unidad o los familiares que genera pueden moverse libremente por las casillas de hierba. Planta hierba a medida que se mueve.,Les cases d'herbe n'entravent pas vos déplacements ni ceux de vos familiers. Plante de l'herbe sur votre passage.,"Du und Begleiter, die du rufst, können sich kostenlos durch Grasfelder bewegen. Du pflanzt Gras, während du dich bewegst.",Tu e i famigli che generi potete muovervi liberamente sulle caselle d'erba. Pianti erba mentre cammini.,Espaços de grama concedem movimento livre a você ou familiares gerados por você. Plante grama ao andar.,"草地瓷砖对你和你召唤的侍从来说可以自由穿越。

@@ -413,7 +413,7 @@ KEYWORD_POISONLACE_DESC_STACKLESS,Basic attack inflicts Poison.,,El ataque bási
 KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Dosis de veneno (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),毒缚武器（武器）
 KEYWORD_WPOISONLACE_DESC,Your weapon inflicts +{stacks} Poison.,,El arma inflige +{stacks} de veneno.,Votre arme inflige Poison +{stacks}.,Deine Waffe verursacht +{stacks}&nbsp;Gift.,La tua arma infligge +{stacks} Veleno.,Sua arma aplica +{stacks} de veneno.,你的武器附加 +{stacks} 点中毒。
 KEYWORD_WPOISONLACE_DESC_STACKLESS,Your weapon inflicts Poison.,,El arma inflige veneno.,Votre arme inflige Poison.,Deine Waffe verursacht Gift.,La tua arma infligge Veleno.,Sua arma aplica veneno.,你的武器附加中毒。
-KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,有毒
+KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,剧毒
 KEYWORD_POISONOUS_DESC,Inflicts Poison {stacks} to units that contact you.,,Inflige {stacks} de veneno a las unidades que entran en contacto con esta.,Inflige Poison {stacks} aux unités qui vous touchent.,"Verursacht Gift&nbsp;{stacks} bei Einheiten, die dich berühren.",Infligge Veleno {stacks} alle unità che ti toccano.,Aplica veneno {stacks} em unidades que entrarem em contato com você.,对接触你的单位施加中毒 {stacks}。
 KEYWORD_POISONOUS_DESC_STACKLESS,Inflicts Poison to units that contact you.,,Inflige veneno a las unidades que entran en contacto con esta.,Inflige Poison aux unités qui vous touchent.,"Verursacht Gift bei Einheiten, die dich berühren.",Infligge Veleno alle unità che ti toccano.,Aplica veneno em unidades que entrarem em contato com você.,对接触你的单位施加中毒。
 KEYWORD_POSSESED_NAME,Possessed,,Posesión,Possession,Besessen,Possessione,Possessão,附身
@@ -588,7 +588,7 @@ Se pueden usar hasta 3 de tecnología al mismo tiempo.","Augmente la qualité du
 Jusqu'à 3&nbsp;technos peuvent être utilisées à la fois.","Erhöht die Qualität des nächsten Gegenstandes, den du herstellst oder den nächsten Begleiter, den du baust.
 Du kannst bis zu 3&nbsp;Technologie auf einmal verwenden.","Migliora la qualità del prossimo oggetto che crei o del prossimo famiglio che generi.
 È possibile utilizzare fino a 3 Tecnologie alla volta.","Aumenta a qualidade do próximo item que você fabricar ou do próximo familiar que você gerar.
-A tecnologia só pode ser utilizada até um máximo de 3 por vez.","提高下一件制造物品或下一只召唤灵的品质。
+A tecnologia só pode ser utilizada até um máximo de 3 por vez.","提高下一件制造物品或下一只宠物的品质。
 
 最多同时使用3点科技。"
 KEYWORD_TEMPBACKSTAB_NAME,Backstab Bonus,,Bonificación de daño por la espalda,Bonus d'attaque sournoise,Bonus für Angriffe von hinten,Bonus Colpo alle Spalle,Bônus de Punhalada,背刺加成
