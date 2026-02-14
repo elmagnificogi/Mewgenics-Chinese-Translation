@@ -10,10 +10,10 @@ abilities.csv,389,ABILITY_WITCHHUNT2_DESC,missing_expected_zh,Bounty,赏金,"Put
 \n且击杀者获得全属性提升。
 \n[s:.7](此法术消耗更低。)[/s]"
 abilities.csv,395,ABILITY_REVIVE2_DESC,missing_expected_zh,Charmed,被迷惑,"Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.","复活一个尸体至100%生命值
-\n并治愈一处伤势。
+\n并治愈一处伤口。
 \n如果是敌人，则被魅惑。"
 abilities.csv,395,ABILITY_REVIVE2_DESC,potential_bad_zh,Charmed,被迷惑,"Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.","复活一个尸体至100%生命值
-\n并治愈一处伤势。
+\n并治愈一处伤口。
 \n如果是敌人，则被魅惑。"
 abilities.csv,539,ABILITY_PORCUPINE2_DESC,missing_expected_zh,Reflect,反射,Gain +2 temporary Brace and +2 temporary Thorns until your next turn. Also reflect the next projectile you're hit by.,"直到下回合，
 \n获得+2临时坚毅和+2临时荆棘。

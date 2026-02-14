@@ -1091,9 +1091,9 @@ ABIITY_FRIENDORFOE2_DESC,An infinitely ranged spell that heals allies and damage
 治疗友军并伤害敌人。"
 ABILITY_REVIVE_NAME,Revive,,Resucitación,Résurrection,Wiederbeleben,Rianimazione,Ressurreição,复活
 ABILITY_REVIVE_DESC,Revive a body to 50% HP and cure one of its injuries.,,Resucita un cadáver con el 50 % de PS y cura una de sus lesiones.,Réanime un cadavre avec 50&nbsp;% de ses PV et soigne une de ses blessures.,Belebe eine Einheit mit 50&nbsp;% LP wieder und heile eine ihrer Verletzungen.,Riporti un corpo al 50% di PS e curi una delle sue ferite.,Reviva um corpo com 50% de saúde e cure um de seus ferimentos.,"复活一个尸体至50%生命值并
-治愈一处伤势。"
+治愈一处伤口。"
 ABILITY_REVIVE2_DESC,"Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.",,"Resucita un cadáver con el 100 % de PS y cura una de sus lesiones. Si era un enemigo, sufre embrujo.","Réanime un cadavre avec 100&nbsp;% de ses PV et soigne une de ses blessures. Si c'était un ennemi, il subit Envoûtement.","Belebe eine Einheit mit 100&nbsp;% LP wieder und heile eine ihrer Verletzungen. Wenn es sich um einen Gegner handelt, verursache Charme.","Riporti un corpo al 100% di PS e curi una delle sue ferite. Se era un nemico, subisce Fascino.","Reviva um corpo com 100% de saúde e cure um de seus ferimentos. Caso seja um inimigo, ele é enfeitiçado.","复活一个尸体至100%生命值
-并治愈一处伤势。
+并治愈一处伤口。
 如果是敌人，则其被魅惑。"
 ABILITY_HOLYLIGHT_NAME,Holy Light,,Luz sagrada,Lumière sainte,Heiliges Licht,Luce Sacra,Luz Divina,圣光
 ABILITY_HOLYLIGHT_DESC,Heal allies and damage enemies in an area. This spell has half effect outside its center.,,Cura a los aliados y daña a los enemigos en un área. Este hechizo tiene la mitad de efecto fuera de su centro.,Soigne les alliés et inflige des dégâts aux ennemis dans une zone. L'effet de ce sort est réduit de moitié en dehors de son centre.,Heile Verbündete und verursache Schaden bei Gegnern in einem bestimmten Bereich. Außerhalb seiner Mitte ist der Effekt dieses Zaubers halbiert.,Curi gli alleati e infliggi danno ai nemici in un'area. Quest'incantesimo ha efficacia dimezzata fuori dal suo centro.,Cure aliados e cause dano a inimigos em uma área. Este encantamento possui efeito pela metade fora de seu centro.,"治疗友军并伤害区域内的敌人。
