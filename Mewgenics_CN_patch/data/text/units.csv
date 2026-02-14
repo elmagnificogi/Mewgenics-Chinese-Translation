@@ -71,7 +71,7 @@ Bénéficie de Garde +1&nbsp;quand il est touché.","Schießt auf alle Gegner in
 Erhält +1&nbsp;Wappnen, wenn er Schaden erleidet.","Esegue un tiro a parabola contro tutti i nemici a portata.
 Ottiene +1 Guardia quando subisce danno.","Lança ataques contra todos os inimigos dentro do alcance.
 Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。
-受到伤害时获得 +1 护甲。"
+受到伤害时获得 +1 坚毅。"
 ENEMY_INVADER_NAME,Schpidenbot,spiderbot (see the note about robot nazi enemies elsewhere),Schpidenbot,Schpidenbot,Spinnenbot,Roboragnen,Schpidenbot,施皮登机器人
 ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps-à-corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
 ENEMY_TINYTUMOR_NAME,Tiny Tumor,,Minitumor,Petite tumeur,Winziger Tumor,Piccolo Tumore,Tumor Minúsculo,微型肿瘤
@@ -241,7 +241,7 @@ Fliegt.","La sua raffica corpo a corpo infligge Confusione.
 Ha un 50% di probabilità di schivare.
 Vola.","Seu ataque corpo-a-corpo de rajada aplica confusão.
 50% de chance de esquiva.
-Voador.","它的近战连击会造成混乱效果。
+Voador.","它的近战连击会造成困惑效果。
 50% 躲避几率。
 飞行。"
 ENEMY_BRAINDRAIN_NAME,Brain Drain,,Chupasesos,Groservo,Hirnsauger,Drenacervello,Dreno de Cérebro,脑力吸取
@@ -288,8 +288,7 @@ Untot.","Il suo attacco infligge Sanguisuga a tutte le unità all'interno di un'
 Infligge Maledizione a tutte le unità da cui subisce danno.
 Non morto.","Seu ataque aplica sanguessuga em todas as unidades em uma área.
 Aplica bruxaria em unidades que atacam.
-Morto-vivo.","它的攻击会对区域内所有单位施加吸血。
-
+Morto-vivo.","它的攻击会对区域内所有单位施加生命汲取。
 会对造成伤害的单位施加诅咒。
 不死族。"
 ENEMY_SPOOKIE_NAME,Spookie,,Fantasmito,Trouille,Spuki,Spauracchio,Sustinho,幽灵怪
@@ -346,7 +345,7 @@ Quando ucciso diventa un Laceratore.
 Non morto.","Seu ataque à distância aplica sanguessuga.
 Pode invocar fogos-fátuos.
 Torna-se um tateador ao morrer.
-Morto-vivo.","其远程攻击造成吸血效果。
+Morto-vivo.","其远程攻击造成生命汲取效果。
 可以召唤鬼火。
 被杀时变成残骸。"
 ENEMY_SHAMBLER_NAME,Shambler,,Tambaleante,Molosse,Schlurfer,Barcollatore,Cambaleante,蹒跚者
@@ -552,7 +551,7 @@ Gera um tumor ao morrer.
 Preparação 2.","进行范围近战攻击，
 将单位击飞。
 死亡时生成一个肿瘤。
-护甲 2。"
+坚毅 2。"
 ENEMY_CULTISTBISHOP_NAME,Cultist Bishop,,Sectario obispo,Prélat fanatique,Kultbischof,Vescovo Cultista,Bispo Cultista,狂信徒主教
 ENEMY_CULTISTBISHOP_DESC,"Its lightning attack has a chance to Stun.
 Heals its allies. Spawns a Bishop Hat when killed.",,"Su ataque relámpago puede aturdir.
@@ -683,7 +682,7 @@ Kann Steine ansaugen und sie fressen, um Wappnen und Schild zu erhalten.","Il su
 Può risucchiare le rocce verso se stesso e mangiarle per ottenere Guardia e Scudo.","Seu ataque corpo-a-corpo aplica atordoamento e gera pedras.
 Pode sugar pedras na sua direção e as come para obter preparação e escudo.","其近战攻击造成眩晕并生成岩石。
 
-能吸引岩石并吞噬以获得护甲和护盾。"
+能吸引岩石并吞噬以获得坚毅和护盾。"
 ENEMY_CRATERCREEPER_NAME,Crater Creeper,,Reptacráteres,Comètard,Kraterkriecher,Melma di Cratere,Crateirista,陨坑蠕行者
 ENEMY_CRATERCREEPER_DESC,"Shoots rocks or dashes forward leaving an Amoeba behind.
 Can only be damaged from the front.",,"Dispara rocas o corre hacia delante, dejando una ameba a su paso.
@@ -732,7 +731,7 @@ Sein Nahkampfangriff verursacht Charme.","Il suo attacco a distanza infligge Liv
 Il suo attacco corpo a corpo infligge Fascino.","Seu ataque à distância aplica contusão e -2 de [img:spd] em inimigos, e preparação e +2 de [img:spd] em aliados.
 Seu ataque corpo-a-corpo aplica feitiço.","其远程攻击对敌人造成挫伤和-2 [img:spd]，
 
-对盟友造成护甲和+2 [img:spd]。
+对盟友附带坚毅和+2 [img:spd]。
 其近战攻击造成魅惑。"
 ENEMY_CLOAKEDDEMON_NAME,Cloaked Demon,,Demonio con capa,Démon drapé,Verhüllter Dämon,Demone Ammantato,Demônio Oculto,隐匿恶魔
 ENEMY_CLOAKEDDEMON_DESC,"Casts an area spell that inflicts Burn 3 to enemies and gives +1 Damage to allies.
@@ -872,7 +871,7 @@ Esplode alla morte.","Dispara tiros de energia em forma de X.
 Pode aplicar marcação em inimigos ou obter [img:divineshield].
 Explode ao morrer.","发射呈X形的能量射击。
 可以使敌人受到标记效果，
-或获得[s:img:divineshield]。"
+或获得[img:divineshield]。"
 ENEMY_MEGASAUCER_NAME,Megasaucer,,Megaplatillo,Mégasoucoupe,Riesen-UFO,Mega Disco Volante,Mega Disco,超级飞碟
 ENEMY_MEGASAUCER_DESC,"Performs a random action on its turn.
 Has a dash attack that inflicts Stun.
@@ -1038,7 +1037,7 @@ Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开�
 
 执行一记直线长距离震击攻击。
 可以抓住并瞬杀单位，如果它能接触到它们。
-受到伤害时，获得+99 护甲，直到下一个回合。"
+受到伤害时，获得+99 坚毅，直到下一个回合。"
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
@@ -1138,10 +1137,10 @@ Recupera PS cuando un enemigo se autoinflige daño con confusión.","Attaquant a
 Se soigne chaque fois qu'un ennemi subit des dégâts à cause de Confusion.","Nahkämpfer, der Verwirrung verursacht und anschließend wegrennt. Einheiten, die ihn berühren, erleiden Verwirrung.
 Heilt sich immer, wenn ein Gegner sich durch Verwirrung selbst verletzt.","Specialista del corpo a corpo che infligge Confusione per poi fuggire. Le unità che vi entrano in contatto ottengono Confusione.
 Cura tutti gli alleati che si auto-infliggono danno a causa di Confusione.","Agressor corpo-a-corpo que aplica confusão e foge. Unidades que entram em contato sofrem confusão.
-Cura-se sempre que um inimigo causa dano a si mesmo com a confusão.","近战攻击者，造成混乱状态，
-然后逃跑。接触该单位的单位会获得混乱状态。
+Cura-se sempre que um inimigo causa dano a si mesmo com a confusão.","近战攻击者，造成困惑状态，
+然后逃跑。接触该单位的单位会获得困惑状态。
 
-每当敌人因混乱状态自我伤害时，
+每当敌人因困惑状态自我伤害时，
 会恢复生命值。"
 ENEMY_WOOLYMAMMOTH_NAME,Wooly Mammoth,,Mamut lanudo,Mammouth laineux,Wollhaarmammut,Mammut Lanoso,Mamute Lanoso,毛象
 ENEMY_WOOLYMAMMOTH_DESC,"Has a melee attack that knocks units into the air, and a dash attack.
@@ -1449,7 +1448,7 @@ Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível
 回合结束时获得速度加成。"
 ENEMY_FLESHYMIND_NAME,Fleshy Mind,,Mente carnosa,Génie de chair,Fleischgeist,Mente Carnosa,Mente Cárnea,肉质之心
 ENEMY_FLESHYMIND_DESC,Has a ranged attack that inflicts Muted. Inflicts Confusion on units that attack it.,,Lanza un ataque a distancia que inflige silencio. Inflige confusión a las unidades que la atacan.,Son attaque à distance inflige Entrave magique. Inflige Confusion aux unités qui l'attaquent.,"Hat einen Fernkampfangriff, der Stumm verursacht. Verursacht Verwirrung bei Einheiten, die ihn angreifen.",Possiede un attacco a distanza che infligge Mutismo. Infligge Confusione alle unità che lo attaccano.,Possui um ataque à distância que aplica silêncio. Aplica confusão em unidades que a atacam.,"拥有远程攻击，造成沉默。
-攻击它的单位会被混乱。"
+攻击它的单位会被施加困惑。"
 ENEMY_BUTCHTINK_NAME,Butch & Tink,,Butch y Tink,Butch & Tink,Butch & Tink,Butch & Tink,Butch & Tink,布奇与丁克
 ENEMY_BUTCHTINK_DESC,"Moves 1 tile toward whatever damages them.
 Will dash on their last turn.
@@ -1609,7 +1608,7 @@ Se pega un pedo y sale disparado hacia delante al sufrir daño.","Ses pets infli
 Pète et se fonce en avant quand il est blessé.","Sein Furz verursacht Gift&nbsp;3.
 Furzt und wird nach vorn geschleudert, wenn er Schaden erleidet.","Le sue scoregge infliggono Veleno 3.
 Quando subisce danno, scoreggia e si proietta in avanti.","Seus puns aplicam veneno 3.
-Solta puns e se projeta para frente ao sofrer dano.","其屁会造成中毒3。
+Solta puns e se projeta para frente ao sofrer dano.","其屁会造成3层中毒。
 受伤时放屁并向前冲。"
 ENEMY_SHARKY_NAME,Sharky,,Tibu,Requin,Mini-Hai,Squaletto,Tubarôneo,鲨鱼
 ENEMY_SHARKY_DESC,"Its bite inflicts Bleed.
@@ -2057,7 +2056,7 @@ Devuelve los proyectiles y hace retroceder a las unidades que entran en contacto
 Renvoie les projectiles et repousse les unités qui la touchent.","Ihr Nahkampfangriff verursacht Durchgemischt.
 Reflektiert Geschosse und stößt Einheiten zurück, die sie berühren.","Il suo attacco corpo a corpo infligge Scompiglio.
 Respinge i proiettili e le unità che vi entrano in contatto.","Seu ataque corpo-a-corpo aplica embaralhamento.
-Reflete projéteis e empurra para trás unidades que entram em contato.","它的近战攻击会造成混乱效果。
+Reflete projéteis e empurra para trás unidades que entram em contato.","它的近战攻击会造成扰乱效果。
 反射投射物并击退接触的单位。"
 ENEMY_ANGELICCAT_NAME,Angelic Cat,,Gato angelical,Chat angélique,Engelskatze,Gatto Angelico,Gato Angelical,天使猫
 ENEMY_ANGELICCAT_DESC,"Has a Holy Wind area attack.
@@ -2190,7 +2189,7 @@ Kann sich selbst durch Leichen wiederbeleben.","Il suo attacco a distanza inflig
 Rianima i cadaveri.
 Torna in vita attraverso i cadaveri.","Seu ataque à distância aplica sanguessuga.
 Reanima corpos mortos.
-Volta à vida através de corpos mortos.","它的远程攻击会造成吸血效果。
+Volta à vida através de corpos mortos.","它的远程攻击会造成生命汲取效果。
 复活死去的尸体。
 通过尸体复活。"
 ENEMY_FRANKLIN_NAME,Franklin,,Franklin,Franklin,Franklin,Franklin,Franklin,富兰克林
@@ -2613,7 +2612,7 @@ Se si prende a pugni da solo perde la Guardia.
 Cosa potrebbe esserci al suo interno?","Seu ataque de hálito empurra todas as unidades 10 espaços para trás.
 Perde sua preparação se socar a si mesmo.
 O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。
-如果它打自己会失去护甲。
+如果它打自己会失去坚毅。
 里面会是什么？"
 ENEMY_MOONHAND_NAME,Moon Hand,,Mano lunar,Main sélénienne,Mondhand,Mano della Luna,Mão Lunar,月之手
 ENEMY_MOONHAND_DESC,"Will grab units that end movement directly in front of it.
@@ -3225,7 +3224,7 @@ TILE_METALTILE_NAME,Metal Shards Tile,,Casilla de fragmentos de metal,Case d'éc
 TILE_METALTILE_DESC,2 damage to things that step on this.,,2 de daño a todo aquello que esté encima.,Marcher dessus inflige 2&nbsp;dégâts.,2&nbsp;Schaden bei Betreten.,2 di danno per le cose che ci camminano sopra.,2 de dano para qualquer coisa que pise sobre ele.,踩到此处造成2点伤害。
 TILE_GLITCHTILE_NAME,Glitch Tile,,Casilla de anomalía,Case buggée,Verbuggtes Feld,Casella Anomalia,Espaço de Glitch,故障砖
 TILE_GLITCHTILE_DESC,"Scrambles the spells of cats who walk through this, temporarily. Confuses non-cats.",,Altera temporalmente los hechizos de los gatos que la cruzan. Confunde a quienes no son gatos.,Altère temporairement les sorts des chats qui la traversent. Inflige Confusion aux unités non-chats.,"Durchmischt vorübergehend die Zauber von Katzen, die über dieses Feld gehen. Verwirrt nicht-Katzen.","Infligge Scompiglio agli incantesimi dei gatti che ci camminano sopra, temporaneamente. Confonde i non-gatti.",Embaralha temporariamente os encantamentos de gatos que caminham sobre este espaço. Confunde tudo que não for um gato.,"暂时扰乱穿过此处的猫的法术。
-使非猫类混乱。"
+使非猫类困惑。"
 TILE_ROADTILE_NAME,Road Tile,,Casilla de camino,Case de route,Straße,Casella Stradale,Espaço de Estrada,道路砖
 TILE_ROADTILE_DESC,Moving through this tile costs half of a movement.,,Moverse por esta casilla cuesta medio movimiento.,Traverser cette case coûte moitié moins de points de déplacement.,Über dieses Feld zu gehen kostet halb so viel Bewegung.,Attraversare questa casella costa mezzo movimento.,Mover-se por este espaço custa meio movimento.,穿过该砖块消耗半点移动力。
 TILE_ROCKTILE_NAME,Basalt Tile,,Casilla de basalto,Case de basalte,Basalt,Casella in Basalto,Espaço de Basalto,玄武岩砖

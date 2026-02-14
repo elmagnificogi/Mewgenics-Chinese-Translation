@@ -68,7 +68,7 @@ KEYWORD_BOUNTY_DESC,"Takes 25% extra damage. If killed, gain {stacks} coins.",,"
 如果被击杀，获得 {stacks} 枚金币。"
 KEYWORD_BOUNTY_DESC_STACKLESS,"Takes 25% extra damage. If killed, gain coins.",,"Sufre un 25 % de daño extra. Si muere, obtiene monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez des pièces.","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni monete.","Sofre 25% de dano adicional. Ao morrer, obtenha moedas.","受到额外 25% 的伤害。
 如果被击杀，获得金币。"
-KEYWORD_BRACE_NAME,Brace,,Refuerzo,Garde,Wappnen,Guardia,Preparação,护甲
+KEYWORD_BRACE_NAME,Brace,,Refuerzo,Garde,Wappnen,Guardia,Preparação,坚毅
 KEYWORD_BRACE_DESC,Takes {stacks} less damage from all sources.,,Sufre {stacks} menos de daño de todos los ataques.,Les dégâts que vous subissez diminuent de {stacks}.,Erleidet von allen Quellen {stacks}&nbsp;Schaden weniger.,Subisce {stacks} di danno in meno da tutte le fonti.,Sofre {stacks} a menos de dano de todas as fontes.,从所有来源减少 {stacks} 点伤害。
 KEYWORD_BRACE_DESC_STACKLESS,Reduces all incoming damage.,,Reduce todo el daño sufrido.,Réduit tous les dégâts que vous subissez.,Reduziert sämtlichen erhaltenen Schaden.,Riduce tutto il danno in arrivo.,Reduz todo o dano sofrido.,减少所有受到的伤害。
 KEYWORD_BRUISE_NAME,Bruise,,Moratón,Contusion,Beulen,Livido,Contusão,挫伤
@@ -81,7 +81,7 @@ KEYWORD_BURN_DESC,"Takes {stacks} damage at start of its turn, then decrease Bur
 KEYWORD_BURN_DESC_STACKLESS,"Takes damage at start of its turn, then decrease Burn by 1.",,Sufre daño al inicio del turno y luego reduce la quemadura en 1.,"Subit des dégâts au début de son tour, puis Brûlure -1.",Erleidet am Ende des Zuges Schaden und verringert Verbrennung um 1.,"Subisce danno all'inizio del suo turno, poi riduce Bruciatura di 1.","Sofre dano no início de seu turno, e então diminui a queimadura em 1.","在回合开始时受到伤害，
 然后灼烧值减少1。"
 KEYWORD_PROMOTE_NAME,Promote,,Ascenso,Promotion,Beförderung,Promozione,Promover,提升
-KEYWORD_PROMOTE_DESC,The next familiar you spawn is upgraded into a [img:champion] Champion.,,El siguiente familiar que se genera mejora a [img:champion] adalid.,Le prochain familier que vous invoquez est promu au rang de champion [img:champion].,"Der nächste Begleiter, den du rufst, wird zum [img:champion]&nbsp;Champion befördert.",Il prossimo famiglio che generi viene potenziato in un Campione [img:champion].,O próximo familiar que você gerar é aprimorado para um campeão [img:champion].,"你召唤的下一个宠物将升级为[img:champion]冠军。
+KEYWORD_PROMOTE_DESC,The next familiar you spawn is upgraded into a [img:champion] Champion.,,El siguiente familiar que se genera mejora a [img:champion] adalid.,Le prochain familier que vous invoquez est promu au rang de champion [img:champion].,"Der nächste Begleiter, den du rufst, wird zum [img:champion]&nbsp;Champion befördert.",Il prossimo famiglio che generi viene potenziato in un Campione [img:champion].,O próximo familiar que você gerar é aprimorado para um campeão [img:champion].,"你召唤的下一个宠物将升级为[img:champion]勇者。
 "
 KEYWORD_PROMOTE2_NAME,Promote+,,Ascenso+,Promotion+,Beförderung+,Promozione+,Promover+,提升+
 KEYWORD_PROMOTE2_DESC,The next familiar you spawn is upgraded into an [img:elite] Elite.,,El siguiente familiar que se genera mejora a [img:elite] élite.,Le prochain familier que vous invoquez est promu au rang d'élite [img:champion].,"Der nächste Begleiter, den du rufst, wird zur [img:elite]&nbsp;Elite befördert.",Il prossimo famiglio che generi viene potenziato in un Élite [img:elite].,O próximo familiar que você gerar é aprimorado para um elite [img:elite].,"你召唤的下一个宠物将升级为[img:elite]精英。
@@ -118,7 +118,7 @@ O carisma afeta a mana máxima e a mana inicial.","魅力降低了 {absstacks}�
 "
 KEYWORD_CLEAVE_NAME,Cleave,,Incisión,Fendoir,Schlachten,Fendente,Cisão,横扫
 KEYWORD_CLEAVE_DESC,Cuts a chunk of meat off what it hits.,,Corta un trozo de carne de aquello que golpea.,Coupe la cible comme un vulgaire morceau de viande.,Schneidet ein Stück Fleisch von seinem Ziel ab.,Taglia via un pezzo di carne da ciò che colpisce.,Corta um pedaço de carne do que é atingido.,切下一大块肉。
-KEYWORD_CHARMED_NAME,Charmed,,Embrujo,Envoûtement,Charme,Ammaliamento,Feitiço,被迷惑
+KEYWORD_CHARMED_NAME,Charmed,,Embrujo,Envoûtement,Charme,Ammaliamento,Feitiço,魅惑
 KEYWORD_CHARMED_DESC,It's brainwashed!,,¡Le han lavado el cerebro!,On lui a lavé le cerveau&nbsp;!,Die Einheit ist verliebt!,È un lavaggio del cervello!,Lavagem cerebral!,被洗脑了！
 KEYWORD_CHARMED_DESC_STACKLESS,Behaves as if it's on your team.,,Se comporta como si fuera del grupo.,Se comporte comme un membre de l'équipe.,"Einheit benimmt sich, als wäre sie auf deiner Seite.",Si comporta come se facesse parte della tua squadra.,Comporta-se como se estivesse na sua equipe.,表现得像是你的队友。
 KEYWORD_PROBED_NAME,Probed,,Sonda,Sonde,Sondiert,Sonda,Sondagem,被侦查
@@ -126,7 +126,7 @@ KEYWORD_PROBED_DESC,It's being controlled! Attack it to break the probe!,,¡Cont
 攻击它以破坏侦查！"
 KEYWORD_PROBED_DESC_STACKLESS,Behaves as if it's on your team. Attacks from allies will break the probe.,,Se comporta como si fuera del grupo. Los ataques aliados destrozarán la sonda.,Se comporte comme s'il était dans votre équipe. Les attaques des alliés détruiront la sonde.,"Einheit benimmt sich, als wäre sie auf deiner Seite. Angriffe von Verbündeten zerstören die Sonde.",Si comporta come se facesse parte della tua squadra. Gli attacchi degli alleati romperanno la sonda.,Comporta-se como se estivesse na sua equipe. Ataques de aliados interrompem a sondagem.,"表现得像是你的队友。
 盟友的攻击会破坏侦查。"
-KEYWORD_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,混乱
+KEYWORD_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,困惑
 KEYWORD_CONFUSION_DESC,"When performing an action, 25% chance to instead hit itself equal to its strength. Lasts {stacks} turns.",,"Al realizar una acción, tiene un 25 % de probabilidad de autogolpearse con su fuerza. Dura {stacks} turnos.","En effectuant une action, 25&nbsp;% de chances de se frapper soi-même. Dure {stacks} tours.","Wenn die Einheit eine Aktion ausführt, besteht eine 25%ige Wahrscheinlichkeit, dass sie sich selbst Schaden in Höhe ihrer Stärke zufügt. Dauert {stacks}&nbsp;Züge.","Quando esegue un'azione, c'è il 25% di probabilità che si autocolpisca con un danno pari alla sua forza. Dura {stacks} turni.","Ao realizar uma ação, possui 25% de chance de golpear a si mesmo de forma equivalente à sua força. Dura {stacks} turnos.","执行动作时，
 有25%概率攻击自身，
 伤害等于其力量，持续 {stacks} 回合。
@@ -302,7 +302,7 @@ KEYWORD_KINETICSPPIKES_DESC_SINGULAR,"When this takes damage, emit a Sparkle.",,
 "
 KEYWORD_KINETICSPPIKES_DESC_STACKLESS,"When this takes damage, emit Sparkles.",,"Al sufrir daño, emite destellos.","Subissant des dégâts, des étincelles sont émises.","Einheit versprüht Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette Scintille.","Ao sofrer dano, emite fagulhas.","当此单位受到伤害时，发出火花。
 "
-KEYWORD_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,水蛭
+KEYWORD_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,生命汲取
 KEYWORD_LEECHES_NAME_APPLIER,{applier's} Leeches.,,Son las sanguijuelas de {applier's}.,Sangsues ({applier}).,Blutegel von {applier},Sanguisughe di {applier}.,Sanguessugas de {applier's}.,{applier's} 吸血。
 KEYWORD_LEECHES_DESC,Drains {stacks} health at the end of the round.,,Absorbe {stacks} de salud al final de la ronda.,Draine {stacks} PV à la fin de la manche.,Saugt am Ende der Runde {stacks}&nbsp;Gesundheit ab.,Prosciuga {stacks} di salute alla fine del round.,Drena {stacks} de saúde no final da rodada.,"在回合结束时吸取 {stacks} 点生命值。
 "
@@ -341,10 +341,10 @@ A sorte afeta a chance de crítico base e tudo que é aleatório.","幸运降低
 KEYWORD_MADNESS_NAME,Madness,,Locura,Folie,Wahnsinn,Follia,Insanidade,疯狂
 KEYWORD_MADNESS_DESC,Thinks everything is an enemy. Uncontrollable.,,Piensa que todos son enemigos. Incontrolable.,Tout lui semble être un ennemi. Incontrôlable.,Hält alles für einen Gegner. Unkontrollierbar.,Pensa che ogni cosa sia un nemico. Incontrollabile.,Pensa que tudo é um inimigo. Incontrolável.,"认为所有事物都是敌人。
 无法控制。"
-KEYWORD_MAGICWEAKNESS_NAME,Magic Weakness,,Debilidad mágica,Vulnérabilité magique,Magieschwäche,Debolezza Magica,Fraqueza Contra Magia,魔法弱点
+KEYWORD_MAGICWEAKNESS_NAME,Magic Weakness,,Debilidad mágica,Vulnérabilité magique,Magieschwäche,Debolezza Magica,Fraqueza Contra Magia,魔法虚弱
 KEYWORD_MAGICWEAKNESS_DESC,Incoming magic damage has 100% Crit Chance and can't miss.,,El daño mágico sufrido tiene un 100 % de probabilidad de crítico y no puede fallar.,Les dégâts que vous subissez ont 100&nbsp;% de chances de coup critique et touchent à coup sûr.,Erlittener magischer Schaden hat 100&nbsp;% kritische Trefferchance und kann nicht verfehlen.,Il danno magico in arrivo ha una probabilità di colpo critico del 100% e non può mancare il bersaglio.,O dano mágico sofrido possui 100% de chance de crítico e não pode errar.,"即将受到的魔法伤害拥有100
 %暴击率且无法闪避。"
-KEYWORD_MANALEECHES_NAME,Mana Leeches,,Sanguijuelas de maná,Sangsue de mana,Manablutegel,Assorbi-Mana,Sanguessugas de Mana,法力吸取者
+KEYWORD_MANALEECHES_NAME,Mana Leeches,,Sanguijuelas de maná,Sangsue de mana,Manablutegel,Assorbi-Mana,Sanguessugas de Mana,法力吸取
 KEYWORD_MANALEECHES_NAME_APPLIER,{applier's} Mana Leeches,,Son las sanguijuelas de maná de {applier's}.,Sangsues de mana ({applier}).,Manablutegel von {applier},Assorbi-Mana di {applier},Sanguessugas de mana de {applier's},{applier's} 法力吸取者
 KEYWORD_MANALEECHES_DESC,Drains {stacks} mana at the end of the round.,,Absorbe {stacks} de maná al final de la ronda.,Draine {stacks} mana à la fin de la manche.,Saugen am Ende der Runde {stacks}&nbsp;Mana ab.,Prosciuga {stacks} di mana alla fine del round.,Drena {stacks} de mana no final da rodada.,在回合结束时吸取 {stacks} 法力值。
 KEYWORD_MANALEECHES_DESC_APPLIER,Drains {stacks} mana at the end of {applier's} turn and gives it to {applier}.,,Absorbe {stacks} de maná al final del turno de {applier's} para dárselo a {applier}.,Draine {stacks} mana et les donne à {applier} à la fin de son tour.,Saugen am Ende vom Zug von {applier} {stacks}&nbsp;Mana ab und schreiben sie {applier} gut.,Prosciuga {stacks} di mana alla fine del turno di {applier} e lo fornisce a {applier}.,Drena {stacks} de mana no final do turno de {applier's} e a concede para {applier}.,"在 {applier's} 回合结束时吸取 {stacks} 法力值并给予 {applier}。
@@ -370,7 +370,7 @@ KEYWORD_BONUSMOVE_DESC,An extra basic move that is saved across turns if unused.
 "
 KEYWORD_BONUSMOVE_DESC_STACKS,{stacks} extra basic moves that are saved across turns if unused.,,"Hay {stacks} movimientos básicos extras que, de no usarse, se guardan para otro turno.","{stacks} déplacements de base bonus, conservés d'un tour à l'autre s'ils ne sont pas utilisés.","{stacks} zusätzliche Bewegungen, die über Züge hinweg erhalten bleiben, wenn sie nicht genutzt werden.",{stacks} movimenti base aggiuntivi che si conservano tra i turni se non vengono utilizzati.,{stacks} movimentos básicos adicionais que persistem entre turnos se não forem utilizados.,"未使用时可跨回合保存的 {stacks} 次额外基础移动。
 "
-KEYWORD_MUTED_NAME,Muted,,Silencio,Entrave magique,Stumm,Mutismo,Silêncio,禁言
+KEYWORD_MUTED_NAME,Muted,,Silencio,Entrave magique,Stumm,Mutismo,Silêncio,沉默
 KEYWORD_MUTED_DESC,{stacks} of your spells are disabled until {applier} dies.,,Se deshabilitan {stacks} hechizos de esta unidad hasta que {applier} muere.,{stacks} de vos sorts sont désactivés jusqu'à ce que {applier} meure.,"{stacks} deiner Zauber sind deaktiviert, bis {applier} stirbt.",{stacks} dei tuoi incantesimi sono disabilitati finché {applier} non muore.,{stacks} de seus encantamentos são desabilitados até que {applier} morra.,"{applier} 死亡前，
 你的 {stacks} 个法术被禁用。"
 KEYWORD_MUTED_DESC_SINGULAR,One of your spells is disabled until {applier} dies.,,Se deshabilita un hechizo de esta unidad hasta que {applier} muere.,Un de vos sorts est désactivé jusqu'à ce que {applier} meure.,"Einer deiner Zauber ist deaktiviert, bis {applier} stirbt.",Uno dei tuoi incantesimi è disabilitato finché {applier} non muore.,Um de seus encantamentos é desabilitado até que {applier} morra.,"{applier} 死亡前，你的一个法术被禁用。
@@ -413,7 +413,7 @@ KEYWORD_POISONLACE_DESC_STACKLESS,Basic attack inflicts Poison.,,El ataque bási
 KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Dosis de veneno (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),毒缚武器（武器）
 KEYWORD_WPOISONLACE_DESC,Your weapon inflicts +{stacks} Poison.,,El arma inflige +{stacks} de veneno.,Votre arme inflige Poison +{stacks}.,Deine Waffe verursacht +{stacks}&nbsp;Gift.,La tua arma infligge +{stacks} Veleno.,Sua arma aplica +{stacks} de veneno.,你的武器附加 +{stacks} 点中毒。
 KEYWORD_WPOISONLACE_DESC_STACKLESS,Your weapon inflicts Poison.,,El arma inflige veneno.,Votre arme inflige Poison.,Deine Waffe verursacht Gift.,La tua arma infligge Veleno.,Sua arma aplica veneno.,你的武器附加中毒。
-KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,有毒
+KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,剧毒
 KEYWORD_POISONOUS_DESC,Inflicts Poison {stacks} to units that contact you.,,Inflige {stacks} de veneno a las unidades que entran en contacto con esta.,Inflige Poison {stacks} aux unités qui vous touchent.,"Verursacht Gift&nbsp;{stacks} bei Einheiten, die dich berühren.",Infligge Veleno {stacks} alle unità che ti toccano.,Aplica veneno {stacks} em unidades que entrarem em contato com você.,对接触你的单位施加中毒 {stacks}。
 KEYWORD_POISONOUS_DESC_STACKLESS,Inflicts Poison to units that contact you.,,Inflige veneno a las unidades que entran en contacto con esta.,Inflige Poison aux unités qui vous touchent.,"Verursacht Gift bei Einheiten, die dich berühren.",Infligge Veleno alle unità che ti toccano.,Aplica veneno em unidades que entrarem em contato com você.,对接触你的单位施加中毒。
 KEYWORD_POSSESED_NAME,Possessed,,Posesión,Possession,Besessen,Possessione,Possessão,附身
@@ -483,15 +483,15 @@ KEYWORD_SAFEDOOMED_NAME,Doomed,,Condenación,Damnation,Todesurteil,Condanna,Perd
 KEYWORD_SAFEDOOMED_DESC,"Ticks down at the end of your turn. When it hits 0, Die (without being injured).",,"Se inicia una cuenta atrás al final del turno. Al llegar a 0, muere (sin sufrir lesiones).","Diminue à la fin de votre tour. À 0, meure (sans être blessé).","Zählt am Ende deines Zuges herunter. Stirb, wenn der Timer 0 erreicht (ohne eine Verletzung zu erleiden).","Il valore si riduce alla fine del tuo turno. Quando raggiunge lo 0, muori (senza subire ferite).","Diminui no final de seu turno. Ao chegar a 0, morra (sem sofrer ferimentos).","在你的回合结束时倒计时。
 当倒计时为0时，死亡（不受伤）。
 "
-KEYWORD_SCRAMBLED_NAME,Scrambled,,Revoltijo,Désordre,Durchgemischt,Scompiglio,Embaralhamento,混乱
-KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont temporairement altérées.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被打乱。
+KEYWORD_SCRAMBLED_NAME,Scrambled,,Revoltijo,Désordre,Durchgemischt,Scompiglio,Embaralhamento,扰乱
+KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont temporairement altérées.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被扰乱。
 KEYWORD_SERRATED_NAME,Serrated Claws,,Garras serradas,Griffes acérées,Gezackte Klauen,Artigli Seghettati,Garras Serradas,锯齿爪
 KEYWORD_SERRATED_DESC,Basic attack inflicts +{stacks} Bleed.,,El ataque básico inflige +{stacks} de hemorragia.,Votre attaque de base inflige Saignement +{stacks}.,Grundangriffe verursachen +{stacks}&nbsp;Blutung.,L'attacco base infligge +{stacks} Sanguinamento.,Ataques básicos aplicam +{stacks} de sangramento.,基础攻击附加 +{stacks} 流血。
 KEYWORD_SERRATED_DESC_STACKLESS,Basic attack inflicts Bleed.,,El ataque básico inflige hemorragia.,Votre attaque de base inflige Saignement.,Grundangriffe verursachen Blutung.,L'attacco base infligge Sanguinamento.,O ataque básico aplica sangramento.,基础攻击附加流血。
 KEYWORD_SHIELD_NAME,Shield,,Escudo,Défense,Schild,Scudo,Escudo,护盾
 KEYWORD_SHIELD_DESC_STACKLESS,Blocks incoming damage.,,Bloquea el daño sufrido.,Bloque les dégâts que vous subissez.,Blockiert eingehenden Schaden.,Blocca il danno in arrivo.,Bloqueia o dano iminente.,阻挡进入的伤害。
 KEYWORD_SHORTCIRCUIT_NAME,Short Circuit,,Cortocircuito,Court-circuit,Kurzschluss,Cortocircuito,Curto-Circuito,短路
-KEYWORD_SHORTCIRCUIT_DESC,All actions are disabled. Cast Break Circuit to break.,,Todas las acciones están deshabilitadas. Se arregla con Reconexión.,Toutes les actions sont désactivées. Lancer Brise-circuit annule cet effet.,"Alle Aktionen sind deaktiviert. Wirke Sicherung, um sie zu aktivieren.",Tutte le azioni sono disabilitate. Lancia Spezza-Circuito per liberarti.,Todas as ações são desabilitadas. Lance Quebrar Circuito para quebrar.,所有动作被禁用。施放[Break Circuit]来解除。
+KEYWORD_SHORTCIRCUIT_DESC,All actions are disabled. Cast Break Circuit to break.,,Todas las acciones están deshabilitadas. Se arregla con Reconexión.,Toutes les actions sont désactivées. Lancer Brise-circuit annule cet effet.,"Alle Aktionen sind deaktiviert. Wirke Sicherung, um sie zu aktivieren.",Tutte le azioni sono disabilitate. Lancia Spezza-Circuito per liberarti.,Todas as ações são desabilitadas. Lance Quebrar Circuito para quebrar.,所有动作被禁用。施放断开电路来解除。
 KEYWORD_SLEEP_NAME,Sleep,,Sueño,Sommeil,Schlaf,Sonno,Sono,睡眠
 KEYWORD_SLEEP_DESC,Skip the next {stacks} turns. Being attacked has a chance to wake you up.,,"Esta unidad se salta los siguientes {stacks} turnos. Si la atacan, puede despertarse.",Saute les {stacks} prochains tours. Être attaqué peut vous réveiller.,"Überspringe die nächsten {stacks}&nbsp;Züge. Wenn du angegriffen wirst, wachst du mit gewisser Wahrscheinlichkeit auf.",Salti i prossimi {stacks} turni. Se ti attaccano hai una probabilità di svegliarti.,Pule os próximos {stacks} turnos. Há uma chance de acordar ao sofrer ataques.,"跳过接下来的{stacks}回合。
 被攻击时有可能唤醒你。"
@@ -588,7 +588,7 @@ Se pueden usar hasta 3 de tecnología al mismo tiempo.","Augmente la qualité du
 Jusqu'à 3&nbsp;technos peuvent être utilisées à la fois.","Erhöht die Qualität des nächsten Gegenstandes, den du herstellst oder den nächsten Begleiter, den du baust.
 Du kannst bis zu 3&nbsp;Technologie auf einmal verwenden.","Migliora la qualità del prossimo oggetto che crei o del prossimo famiglio che generi.
 È possibile utilizzare fino a 3 Tecnologie alla volta.","Aumenta a qualidade do próximo item que você fabricar ou do próximo familiar que você gerar.
-A tecnologia só pode ser utilizada até um máximo de 3 por vez.","提高下一件制造物品或下一只召唤灵的品质。
+A tecnologia só pode ser utilizada até um máximo de 3 por vez.","提高下一件制造物品或下一只宠物的品质。
 
 最多同时使用3点科技。"
 KEYWORD_TEMPBACKSTAB_NAME,Backstab Bonus,,Bonificación de daño por la espalda,Bonus d'attaque sournoise,Bonus für Angriffe von hinten,Bonus Colpo alle Spalle,Bônus de Punhalada,背刺加成
@@ -697,9 +697,9 @@ KEYWORD_ELITE_REACTIVE_DESC,+1 Kinetic Spikes,,+1 de pinchos cinéticos,Pics cin
 KEYWORD_ELITE_DAMAGING_NAME,Elite Buff: Damaging,,Ventaja de élite: Daño,Bonus d'élite&nbsp;: Férocité,Elite-Stärkung: Schädigend,Bonus Élite: Danno,Reforço de Elite: Dano,精英增益：伤害
 KEYWORD_ELITE_DAMAGING_DESC,+2 Damage,,+2 de daño,Dégâts +2.,+2&nbsp;Schaden,+2 al Danno,+2 de dano,+2 伤害
 KEYWORD_ELITE_TOUGH_NAME,Elite Buff: Tough,,Ventaja de élite: Resistencia,Bonus d'élite&nbsp;: Robustesse,Elite-Stärkung: Zäh,Bonus Élite: Resistenza,Reforço de Elite: Resistência,精英增益：坚韧
-KEYWORD_ELITE_TOUGH_DESC,+2 Brace,,+2 de refuerzo,Garde +2.,+2&nbsp;Wappnen,+2 alla Guardia,+2 de preparação,+2 护甲
+KEYWORD_ELITE_TOUGH_DESC,+2 Brace,,+2 de refuerzo,Garde +2.,+2&nbsp;Wappnen,+2 alla Guardia,+2 de preparação,+2 坚毅
 KEYWORD_ELITE_BOSSTOUGH_NAME,Elite Buff: Tough,,Ventaja de élite: Resistencia,Bonus d'élite&nbsp;: Robustesse,Elite-Stärkung: Zäh,Bonus Élite: Resistenza,Reforço de Elite: Resistência,精英增益：坚韧
-KEYWORD_ELITE_BOSSTOUGH_DESC,+1 Brace,,+1 de refuerzo,Garde +1.,+1&nbsp;Wappnen,+1 alla Guardia,+1 de preparação,+1 护甲
+KEYWORD_ELITE_BOSSTOUGH_DESC,+1 Brace,,+1 de refuerzo,Garde +1.,+1&nbsp;Wappnen,+1 alla Guardia,+1 de preparação,+1 坚毅
 KEYWORD_ELITE_SHIELDED1_NAME,Elite Buff: Shielded,,Ventaja de élite: Escudo,Bonus d'élite&nbsp;: Blindage,Elite-Stärkung: Schild,Bonus Élite: Scudo,Reforço de Elite: Escudo,精英增益：护盾
 KEYWORD_ELITE_SHIELDED1_DESC,"At the start of each round, if it has less than 3 [img:shield], set [img:shield] to 3. -20% max health.",,"Al inicio de cada ronda, si tiene menos de 3 [img:shield], se establece [img:shield] en 3. Pierde un 20 % del máximo de salud.","Au début de chaque manche, si l'unité a moins de [img:shield] 3, [img:shield] devient 3. PV max. -20&nbsp;%.","Wenn diese Einheit am Anfang der Runde weniger als 3&nbsp;[img:shield] hat, wird ihr [img:shield] auf 3 gesetzt. -20&nbsp;% max. LP.","All'inizio di ogni round, se ha meno di 3 allo [img:shield], imposta lo [img:shield] a 3. -20% salute massima.","No início de cada rodada, se possuir menos de 3 de [img:shield], define o [img:shield] para 3. -20% de saúde máx.","每回合开始时，
 如果它的 [img:shield] 少于 3，
