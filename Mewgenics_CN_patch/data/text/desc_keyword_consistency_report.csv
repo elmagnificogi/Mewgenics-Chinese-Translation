@@ -416,7 +416,7 @@ mutations.csv,48,MUTATION_EARS_342_DESC,missing_expected_zh,Charmed,被迷惑,20
 \n"
 mutations.csv,50,MUTATION_EARS_344_DESC,missing_expected_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
 mutations.csv,50,MUTATION_EARS_344_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
-mutations.csv,61,MUTATION_EARS_704_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得固定 1。
+mutations.csv,61,MUTATION_EARS_704_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得禁锢 1。
 mutations.csv,77,MUTATION_EYES_306_DESC,missing_expected_zh,Confusion,困惑,Your basic attack has a 10% chance to inflict Confusion 3.,"你的普通攻击有10%的几率造成迷惑3。
 \n"
 mutations.csv,102,MUTATION_EYES_338_DESC,missing_expected_zh,Burn,灼烧,Your basic attack inflicts Burn.,你的普通攻击造成燃烧效果。
@@ -430,7 +430,7 @@ mutations.csv,253,MUTATION_TAIL_334_DESC,missing_expected_zh,Burn,灼烧,Your ba
 mutations.csv,256,MUTATION_TAIL_338_DESC,missing_expected_zh,Burn,灼烧,Your basic attack inflicts Burn 1.,你的普通攻击造成燃烧 1。
 mutations.csv,259,MUTATION_TAIL_342_DESC,missing_expected_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
 mutations.csv,259,MUTATION_TAIL_342_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
-mutations.csv,260,MUTATION_TAIL_703_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得固定 1。
+mutations.csv,260,MUTATION_TAIL_703_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得禁锢 1。
 passives.csv,282,PASSIVE_PUTREFY2_DESCRIPTION,missing_expected_zh,Rot,腐烂,Your basic attack inflicts permanent Rot.,你的基础攻击会造成永久腐败。
 passives.csv,300,PASSIVE_HOOKED2_DESC,missing_expected_zh,Cleave,横扫,"You can use your hook 2 additional times on your turn.
 \nYour hook deals +1 damage and has Cleave.","你在你的回合中可以额外使用 2 次钩爪。
