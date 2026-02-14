@@ -5896,7 +5896,7 @@ Uso: atire uma bola de vidro.","支线任务物品。
 在每场战斗开始时填满地图玻璃。
 
 使用：射出玻璃球。"
-ITEM_GLASSCANNON_FIXED_NAME,Glass Cannon (Fixed),,Cañón de cristal (arreglado),Canon de verre (réparé),Glaskanone (Repariert),Cannone di Vetro (Riparato),Canhão de Vidro (Reparado),玻璃大炮（固定）
+ITEM_GLASSCANNON_FIXED_NAME,Glass Cannon (Fixed),,Cañón de cristal (arreglado),Canon de verre (réparé),Glaskanone (Repariert),Cannone di Vetro (Riparato),Canhão de Vidro (Reparado),玻璃大炮（修正）
 ITEM_GLASSCANNON_FIXED_DESC,Use: Shoot a glass ball anywhere.,,Uso: Dispara una bola de cristal a cualquier parte.,Utilisation&nbsp;: tire un boulet de canon de verre n'importe où.,Benutzen: Verschieße eine Glaskugel auf ein beliebiges Ziel.,Uso: Spari una sfera di vetro in qualunque punto.,Uso: dispare uma bola de vidro em qualquer lugar.,使用：在任意位置射出玻璃球。
 ITEM_HARDPILL_NAME,Unidentified Pills,,Pastillas sin nombre,Pilules non identifiées,Geheimnisvolle Pillen,Pillole Non Identificate,Pílulas Desconhecidas,身份不明的药丸
 ITEM_HARDPILL_DESC,Side Quest Item. The adventure is harder!,,Objeto de misión secundaria. ¡La aventura se complica!,Objet de quête secondaire. La difficulté de l'aventure se corse&nbsp;!,Nebenquestgegenstand: Dein Abenteuer ist härter!,Oggetto per missione secondaria. L'avventura è più difficile!,Item de missão secundária. A aventura é mais difícil!,"支线任务物品。
@@ -5994,7 +5994,7 @@ Uso: exploda uma outra unidade aleatória uma vez por batalha.","支线任务物
 所有单位死亡时爆炸。
 使用：每场战斗爆炸一个随机的其他单位一次。
 "
-ITEM_PARTYDETONATOR_FIXED_NAME,Party Detonator (Fixed),,Detonafiestas (arreglado),Détonateur d'équipe (réparé),Partydetonator (Repariert),Detonatore di gruppo (Riparato),Detonador de Festa (Reparado),队伍引爆器（固定）
+ITEM_PARTYDETONATOR_FIXED_NAME,Party Detonator (Fixed),,Detonafiestas (arreglado),Détonateur d'équipe (réparé),Partydetonator (Repariert),Detonatore di gruppo (Riparato),Detonador de Festa (Reparado),队伍引爆器（修正）
 ITEM_PARTYDETONATOR_FIXED_DESC,"Use: Explode a random unit within a target radius.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Hace estallar una unidad al azar en un radio objetivo.
 [s:.7](Disponible una vez por combate).[/s]","Utilisation&nbsp;: fait exploser une unité aléatoire dans un rayon ciblé.
@@ -6066,7 +6066,7 @@ ITEM_STOPWATCH_NAME,Stopwatch,,Cronómetro,Chronomètre,Stoppuhr,Cronometro,Cron
 ITEM_STOPWATCH_DESC,"Side Quest Item. You have 5 seconds to make decisions in battle, otherwise cats will act randomly.",,"Objeto de misión secundaria. Tiene 5 segundos para decidir en combate. Si no, los gatos hacen cosas al azar.","Objet de quête secondaire. En combat, vous avez 5&nbsp;secondes pour prendre vos décisions. Ce délai écoulé, vos chats agiront aléatoirement.","Nebenquestgegenstand. Du musst dich innerhalb von 5&nbsp;Sek. für eine Aktion entscheiden, sonst agieren deine Katzen selbstständig.","Oggetto per missione secondaria. Hai 5 secondi per prendere decisioni in battaglia, altrimenti i gatti agiranno in modo casuale.","Item de missão secundária. Você possui 5 segundos para tomar decisões em batalha, ou então os gatos vão agir de forma aleatória.","支线任务物品。
 战斗中你有5秒做出决策，
 否则猫咪将随机行动。"
-ITEM_STOPWATCH_FIXED_NAME,Stopwatch (Fixed),,Cronómetro (arreglado),Chronomètre (réparé),Stoppuhr (Repariert),Cronometro (Riparato),Cronômetro (Reparado),秒表（固定）
+ITEM_STOPWATCH_FIXED_NAME,Stopwatch (Fixed),,Cronómetro (arreglado),Chronomètre (réparé),Stoppuhr (Repariert),Cronometro (Riparato),Cronômetro (Reparado),秒表（修正）
 ITEM_STOPWATCH_FIXED_DESC,"Use: You or a target unit takes an AI controlled bonus turn.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Esta unidad u otra objetivo juegan un turno de bonificación controlado por la IA.
 [s:.7](Disponible una vez por combate).[/s]","Utilisation&nbsp;: vous ou une unité ciblée effectuez un tour bonus contrôlé par l'IA.
