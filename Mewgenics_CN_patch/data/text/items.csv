@@ -1613,7 +1613,7 @@ ITEM_D6_DESC,You can reroll your options when you level up.,,Se pueden cambiar a
 ITEM_DREAMCATCHER_NAME,Dream Catcher,,Atrapasueños,Attrape-rêves,Traumfänger,Acchiappasogni,Apanhador de Sonhos,捕梦网
 ITEM_DREAMCATCHER_DESC,"Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury.",,"Cuando esta unidad se queda dormida, obtiene aumento total, recupera todo el maná y se cura una lesión al azar.","Chaque fois que vous vous endormez&nbsp;: Hausse de stats, mana entièrement restauré, une blessure aléatoire est soignée.","Immer, wenn du einschläfst, erhältst du einen Bonus auf alle Attribute, stellst dein Mana vollständig wieder her und heilst eine zufällige Verletzung.","Ogni volta che ti addormenti, ottieni Aumento delle Statistiche, recuperi tutto il tuo mana e guarisci da una ferita casuale.","Sempre que você adormece, obtenha todos os atributos aumentados, restaure toda a sua mana e cure um ferimento aleatório.","每当你入睡时，
 获得全属性提升，恢复所有法力值，
-并治疗一处随机伤势。"
+并治疗一处随机伤口。"
 ITEM_DRUIDSWHISTLE_NAME,Druid's Whistle,,Silbato de druida,Sifflet du druide,Druidenpfeife,Fischietto del Druido,Apito de Druida,德鲁伊哨子
 ITEM_DRUIDSWHISTLE_DESC,"Use: Spawn a random animal familiar on an adjacent tile.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Genera un familiar animal al azar en una casilla adyacente.
@@ -2477,8 +2477,7 @@ Ha un 10% di probabilità alla fine di ogni turno di rompersi ed evocare un Gatt
 并召唤一只被魅惑的迅猛龙幼猫。
 "
 ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,狂暴药剂
-ITEM_ROIDRAGE_DESC,Use: Gain +{aux} [img:str] for the rest of the battle.,,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,"使用：获得 +{aux} [img:str] 持续整个战斗。
-]"
+ITEM_ROIDRAGE_DESC,Use: Gain +{aux} [img:str] for the rest of the battle.,,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,"使用：获得 +{aux} [img:str] 持续整个战斗"
 ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,烤鸡
 ITEM_ROTISSERIECHICKEN_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,使用：回复 {aux} 生命值。
 ITEM_ROTTENMEAT_NAME,Rotten Meat,,Carne putrefacta,Viande rôtie,Verdorbenes Fleisch,Carne Marcia,Carne Podre,腐肉
@@ -2522,8 +2521,7 @@ Este item é usado automaticamente se você estiver inconsciente no final da rod
 如果你倒地，回合结束时自动使用。
 "
 ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,极速球
-ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,"使用：获得 +{aux} [img:dex] 持续整个战斗。
-]"
+ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,"使用：获得 +{aux} [img:dex] 持续整个战斗"
 ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,星辰
 ITEM_STAR_DESC,"Use: Gain Invincibility, +10 Thorns, and Trample until the start of your next turn. Refresh your movement action.",,"Uso: Obtiene invencibilidad, +10 de espinas y pisotón hasta el próximo turno. Restaura la acción de movimiento.","Utilisation&nbsp;: vous confère Invincibilité, Épines +10, et Piétinement jusqu'au début de votre prochain tour. Réinitialise votre action de déplacement.","Benutzen: Erhalte bis zum Anfang deines nächsten Zuges Unverwundbarkeit, +10&nbsp;Dornen und Trampel. Frische deine Bewegungsaktion auf.","Uso: Ottieni Invincibilità, +10 Spine e Calpestamento fino all'inizio del tuo prossimo turno. Ricarichi la tua azione di movimento.","Uso: obtenha invencibilidade, +10 de espinhos e atropelamento até o início do próximo turno. Reinicie sua ação de movimento.","使用：获得无敌，+10 荆棘，
 
