@@ -3640,9 +3640,8 @@ oppure
 con Diminuzione delle Statistiche 2.","Inicie cada batalha com:
 +5 de [img:int], +5 de [img:cha], e +5 de [img:spd]
 ou
-Todos os atributos diminuídos 2.","每场战斗开始时，选择一项
- +5 [img:int]，+5 [img:cha]，和 +5 [img:spd]
-或"
+Todos os atributos diminuídos 2.","每场战斗开始时，增加
+ +5 [img:int] 或 +5 [img:cha] 或 +5 [img:spd]"
 DISORDER_SOULLESS_NAME,Soulless,,Sin alma,Sans âme,Seelenlos,Senz'Anima,Desalmado,无魂者
 DISORDER_SOULLESS_DESC,"You are immune to buffs and debuffs. When you die, you don't leave a corpse.",,"Es inmune a las ventajas y las desventajas. Al morir, no deja cadáver.","Ni les bonus ni les malus ne vous affectent. Lorsque vous mourrez, vous n'avez pas de cadavre.","Du bist immun gegen Stärkungen und Schwächungen. Wenn du stirbst, hinterlässt du keine Leiche.","Sei immune a bonus e malus. Quando muori, non lasci un cadavere.","Você é imune contra fortalecimentos e enfraquecimentos. Ao morrer, você não deixa um corpo para trás.","你免疫增益和减益效果。
 死亡时不会留下尸体。"

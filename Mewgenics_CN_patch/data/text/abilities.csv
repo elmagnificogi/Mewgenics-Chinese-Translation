@@ -5973,7 +5973,7 @@ ABILITY_RANGEDHEAL_NAME,Ranged Attack / Heal,,Ataque/Curación a distancia,Attaq
 ABILITY_RANGEDHEAL_DESC,Heals allies but damages enemies.,,Cura a los aliados y daña a los enemigos.,"Soigne les unités alliées, mais inflige des dégâts aux ennemis.",Heilt Verbündete und verursacht Schaden bei Gegnern.,Cura gli alleati ma infligge danno ai nemici.,Cura aliados e causa dano a inimigos.,治疗盟友但伤害敌人。
 ABILITY_PUSHATTACK_NAME,Push Attack,,Ataque de empuje,Bousculade,Stoßangriff,Attacco a Spinta,Ataque de Empurrão,推进攻击
 ABILITY_PUSHATTACK_DESC,"Dash forward one space, then melee attack with Knockback.",,Se lanza hacia delante 1 casilla y luego realiza un ataque cuerpo a cuerpo con retroceso.,"Vous foncez en avant sur 1&nbsp;case, puis effectuez une attaque au corps-à-corps avec Recul.",Stürme ein Feld vorwärts und greif mit Rückstoß an.,"Scatti in avanti di uno spazio, poi attacchi corpo a corpo con Contraccolpo.","Dê um impulso de 1 espaço para frente, e então realize um ataque corpo-a-corpo com empurrão.","向前冲刺一格，
-然后用击退进行近战攻击。"
+然后用近战攻击附带击退。"
 ABILITY_MONKMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近战攻击
 ABILITY_MONKMELEE_DESC,Attack an adjacent unit.,,Ataca a una unidad adyacente.,Vous attaquez une unité adjacente.,Greif eine benachbarte Einheit an.,Attacchi un'unità adiacente.,Ataque uma unidade adjacente.,攻击相邻单位。
 ABILITY_MONKLOBBED_NAME,Lobbed Shot,,Tiro en arco,Tir en cloche,Lupfer,Tiro a Parabola,Tiro em Arco,抛射射击
